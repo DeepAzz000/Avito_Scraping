@@ -7,6 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
 from datetime import datetime
+import threading
+
 
 
 def navigate_to_website(page_number):
@@ -90,16 +92,16 @@ def get_car_characteristics(driver, links):
 def get_current_timestamp():
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-def write_to_csv(car_data, csv_file_path):
+def write_to_csv(car_data, output_file_path):
     
     try:
-        car_data_file = open(csv_file_path, mode='a', newline='', encoding='utf-8')
+        car_data_file = open(output_file_path, mode='a', newline='', encoding='utf-8')
         car_data_writer = csv.DictWriter(car_data_file, fieldnames=car_data[0].keys())
         if car_data_file.tell() == 0:
             car_data_writer.writeheader()
-        logging.info(f'Writing to {csv_file_path}')
+        logging.info(f'Writing to {output_file_path}')
         for car in car_data:
             car_data_writer.writerow(car)
-        logging.info(f'Writing to {csv_file_path} is DONE')
+        logging.info(f'Writing to {output_file_path} is DONE')
     except Exception as e:
         logging.error(f"Exception occurred while writing to CSV: {e}")

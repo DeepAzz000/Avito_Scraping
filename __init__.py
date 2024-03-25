@@ -1,6 +1,6 @@
 import sys
-from scraping.scraping_main import main as scraping_main
-from stats.stats_main import main as stats_main
+from main.scraping_main import main as scraping_main
+from main.stats_main import main as stats_main
 from logging.config import dictConfig
 
 if __name__ == "__main__":

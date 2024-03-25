@@ -1,8 +1,7 @@
 import logging
-from scraping.scraping_utils import get_links, get_car_characteristics, navigate_to_website , write_to_csv
+from utils.scraping_utils import get_links, get_car_characteristics, navigate_to_website , write_to_csv
 
 def main():
-
     current_page = 1
     max_pages = 2
     while current_page <= max_pages:
@@ -12,9 +11,9 @@ def main():
         except Exception:
             logging.info("Couldn't navigate to main element")
         car_data = get_car_characteristics(driver, links)
-        csv_file_path = 'C:\\Users\\Public\\Avito_Scraping\\output_files\\Avito_Data.csv'
+        output_file_path = 'C:\\Users\\Public\\Avito_Scraping\\output_files\\avito_raw_data.csv'
         
-        write_to_csv(car_data, csv_file_path)
+        write_to_csv(car_data, output_file_path)
         current_page += 1
         driver.quit()
 
