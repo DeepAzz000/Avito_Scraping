@@ -17,7 +17,7 @@ if __name__ == "__main__":
     
     chosen_main = sys.argv[1]
     
-    if chosen_main == 'scraping':
+    if chosen_main == 'scrape':
         scraping_main()
     elif chosen_main == 'stats':
         stats_main()

@@ -7,9 +7,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
 from datetime import datetime
-import threading
-
-
 
 def navigate_to_website(page_number):
     try:

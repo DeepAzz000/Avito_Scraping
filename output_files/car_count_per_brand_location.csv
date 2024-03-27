@@ -1,12 +1,16 @@
 Modèle,Location,Count
 2008,Taza,1
 206,Meknès,2
+206+,Berrechid,2
+206+,Meknès,1
+208,Casablanca,1
 208,Fès,1
 208,Tanger,2
 220,Agadir,2
 220,Marrakech,1
 250,Laâyoune,1
 3008,Casablanca,2
+3008,Khouribga,1
 3008,Kénitra,2
 3008,Rabat,1
 301,Fès,1
@@ -16,15 +20,19 @@ Modèle,Location,Count
 308,Fès,2
 406,Agadir,1
 500,Casablanca,1
+5008,Rabat,1
 5008,Tanger,2
 500C,Rabat,1
 500X,Marrakech,1
+500X,Rabat,1
+911 Carrera,Casablanca,1
 A3,Rabat,1
 A3,Tanger,1
+A4,Casablanca,2
 A5,Casablanca,1
 A5,Rabat,2
 A6,Casablanca,1
-Accent,Casablanca,1
+Accent,Casablanca,2
 Accent,Fès,1
 Accent,Kénitra,2
 Accent,Rabat,2
@@ -32,27 +40,34 @@ Accord,Marrakech,1
 Amarok,Casablanca,2
 Astra,Casablanca,1
 Bentayga,Casablanca,1
+Bipper,Marrakech,1
+C-HR,Rabat,1
 C3,Nador,2
 C3,Rabat,1
+C3,Tanger,2
 C4,Casablanca,2
 C4 CACTUS,Rabat,2
 C5 Aircross,Agadir,1
-C6,Casablanca,1
+C6,Casablanca,2
 CLASSE C COUPE,Rabat,1
+CLASSE GLC COUPE,Casablanca,2
 CLASSE GLC COUPE,Rabat,1
 CLASSE ML,Rabat,1
+CRAFTER,Casablanca,2
 CRETA,Marrakech,1
-Caddy,Casablanca,2
+Caddy,Casablanca,3
 Caddy,Rabat,1
 Captur,Casablanca,1
 Cayenne,Casablanca,3
 Cayenne,Tanger,3
 Cherokee,Casablanca,1
+Cherokee,Rabat,2
 Classe A,Casablanca,1
 Classe A,El Jadida,1
 Classe A,Marrakech,1
+Classe A,Tétouan,1
 Classe A,مراكش,1
-Classe C,Casablanca,1
+Classe C,Casablanca,4
 Classe C,El Jadida,1
 Classe C,Rabat,2
 Classe C,Tétouan,1
@@ -62,90 +77,125 @@ Classe E,Kénitra,3
 Classe E,Oujda,1
 Classe E,Rabat,2
 Classe E,الدار البيضاء,1
+Classe G,Casablanca,2
+Classe GLA,Casablanca,1
 Classe GLC,Casablanca,1
 Clio,Casablanca,3
-Clio,Fès,2
+Clio,Fès,3
 Clio,Marrakech,2
 Clio,Mohammedia,2
-Clio,Rabat,4
+Clio,Rabat,5
+Clio,Safi,1
+Clio,Tanger,2
 Compass,Casablanca,2
 Corolla,Tiznit,1
 Crossland X,Casablanca,1
+Crossland X,Kénitra,1
+DS 3,Rabat,1
 Doblo,Meknès,2
-Dokker,Casablanca,3
+Dokker,Casablanca,5
 Dokker,الدار البيضاء,1
 Dokker Van,Marrakech,1
 Dokker Van,Rabat,1
+Ducato,Agadir,1
 Duster,Agadir,1
-Duster,Marrakech,3
+Duster,Marrakech,7
 Duster,Mohammedia,2
 EOS,Rabat,1
 EXPRESS,Casablanca,1
-F-PACE,Casablanca,2
+F-PACE,Casablanca,3
 Fabia,Agadir,1
 Fiesta,Meknès,2
 Fiesta,Rabat,2
 Fluence,Tétouan,1
 Focus,Rabat,1
+Fusion,Rabat,1
 GOLF 4,Agadir,2
 GOLF 4,Essaouira,3
 GOLF 4,Marrakech,1
 GOLF 4,Settat,1
 GOLF 6,El Jadida,2
+GOLF 6,Tanger,1
+GOLF 6,Temara,1
 GOLF 7,Casablanca,4
 GOLF 7,Marrakech,1
+GOLF 7,Tétouan,1
+GOLF 8,Casablanca,1
+GOLF 8,Rabat,2
 Ghibli,Casablanca,1
-Giulietta,Casablanca,2
-Grand Cherokee,Agadir,1
+Giulietta,Casablanca,4
+Grand Cherokee,Agadir,3
+Grand Cherokee,Casablanca,1
 Hilux,Casablanca,2
 Ibiza,Casablanca,2
 Ibiza,Rabat,2
+Ibiza,Temara,2
 Jetta,Marrakech,2
+K01,Casablanca,2
 Kangoo,Salé,1
 Kangoo,Tétouan,1
+Kodiaq,Agadir,1
 Kuga,Casablanca,3
 Kuga,Safi,1
 Leon,Rabat,2
-Logan,Tanger,2
+Leon,Tanger,1
+Logan,Agadir,2
+Logan,Casablanca,2
+Logan,Fès,1
+Logan,Tanger,3
 Logan,Temara,2
+Macan,Casablanca,2
 Macan,Rabat,1
 Macan,Tanger,1
+Megane,Rabat,1
 Megane 3,Casablanca,7
 Megane 3,Rabat,1
+Megane Coupe,Salé,2
+Micra,Safi,1
+Mustang,Rabat,1
 Octavia,Agadir,2
+Octavia,Casablanca,2
 Octavia,Tanger,2
 Panamera,Rabat,1
 Passat,Rabat,1
 Pathfinder,Marrakech,1
+Picanto,Casablanca,1
 Picanto,Kénitra,1
 Picanto,Marrakech,1
 Polo,Tanger,1
+Prado,Casablanca,2
 Prado,Laâyoune,1
 Q3,Casablanca,1
 Q5,Casablanca,2
-Q5,Rabat,1
+Q5,Fès,1
+Q5,Rabat,3
 Q7,Casablanca,2
 Q8,Casablanca,1
-Q8,Rabat,1
+Q8,Rabat,2
 Qashqai,Casablanca,2
+Qashqai,El Jadida,2
+Qashqai,Fès,1
 Qashqai,Guercif,1
 RS3,Rabat,1
 RS3,Tanger,1
 RSQ3,Fès,1
 RSQ3,Rabat,1
 RSQ8,Casablanca,3
+Range Rover Evoque,Agadir,1
 Range Rover Evoque,Casablanca,4
 Range Rover Evoque,Rabat,2
 Range Rover Evoque,Tanger,2
-Range Rover Sport,Casablanca,3
+Range Rover Sport,Casablanca,8
 Range Rover Sport,Marrakech,2
 Range Rover Sport,Rabat,1
 Ranger,Temara,2
 Renegade,El Jadida,1
 Renegade,Marrakech,3
+Renegade,Rabat,2
+S-Type,Casablanca,1
 S60,Casablanca,1
 S90,Casablanca,2
-Santa Fe,Rabat,2
+Santa Fe,Rabat,3
 Serie 1,Casablanca,1
 Serie 1,El Jadida,2
 Serie 2 coupé,Casablanca,1
@@ -153,52 +203,63 @@ Serie 3,Casablanca,3
 Serie 3,Rabat,2
 Serie 4 gran coupé,Casablanca,3
 Serie 4 gran coupé,Marrakech,1
-Serie 5,Casablanca,2
-Serie 5,Rabat,3
+Serie 5,Casablanca,3
+Serie 5,Marrakech,1
+Serie 5,Rabat,5
 Serie 7,Rabat,2
 Sorento,Casablanca,1
 Spark,Mohammedia,1
+Sportage,Casablanca,1
 Sportage,Rabat,2
 Sprinter,Casablanca,2
-Stelvio,Casablanca,2
+Stelvio,Casablanca,3
 TIPO,Safi,2
 Tepee,Temara,2
-Tiguan,Casablanca,6
+Tiguan,Casablanca,7
 Tiguan,Marrakech,1
-Touareg,Rabat,1
+Touareg,Casablanca,2
+Touareg,Rabat,2
 Touareg,Tanger,1
 Touran,Al Hoceima,2
-Touran,Casablanca,1
+Touran,Casablanca,3
 Touran,Marrakech,2
 Touran,Tanger,2
 Transit,Tétouan,1
-Tucson,Casablanca,1
+Tucson,Casablanca,2
 Tucson,Rabat,1
+Tucson,Tanger,2
+Wrangler,Marrakech,2
 X1,Casablanca,2
 X1,Oujda,1
 X3,Casablanca,3
 X4,Salé,1
 X4,Tétouan,1
+X7,Rabat,1
 XE,Casablanca,1
 XE,Tétouan,2
 XF,Casablanca,2
 XF,الدار البيضاء,1
 Yaris,Rabat,1
+cayenne_coupe,Tanger,1
 classe_c_cabriolet,Casablanca,2
 classe_e_cabriolet,Casablanca,2
+classe_e_coupe,Casablanca,1
 classe_e_coupe,Salé,1
-classe_gle_coupe,Casablanca,1
+classe_gle_coupe,Casablanca,3
 classe_gle_coupe,El Jadida,2
 classe_gle_coupe,Rabat,1
 cooper,Casablanca,2
 cooper,Marrakech,1
-i 10,Casablanca,4
+i 10,Casablanca,5
 i 20,Casablanca,1
 i 20,Rabat,2
 i 40,Tanger,1
 ix 35,Rabat,2
 land_cruiser_prado,Casablanca,1
 landtrek,Casablanca,1
+megane_4,Casablanca,1
+pajero,Casablanca,1
 q5_sportback,Rabat,1
 sandero_stepway,Bab Berred,2
+spring,Rabat,1
 t-roc,Casablanca,1

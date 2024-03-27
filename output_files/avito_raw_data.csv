@@ -1,351 +1,491 @@
 Scraping_time,Name,Prix,Location,Type,Secteur,Première main,Nombre de portes,Modèle,Kilométrage,Marque,Année-Modèle,État,Origine,condition_rating,mileage_rating,origin_rating,year_model_rating,premiere_main_rating,overall_rating
-2024-03-25 14:27:58,Skoda Fabia essence manuel,58 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Fabia,1049990.0,Skoda,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 14:27:58,Skoda Fabia essence manuel,58 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Fabia,10499900.0,Skoda,,Très bon,WW au Maroc,7,5,10,,5,
 2024-03-25 14:28:02,Dacia dokker van,93 000 DH,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Dokker Van,,Dacia,2017.0,Neuf,WW au Maroc,5,5,10,3.0,5,5.3
 2024-03-25 14:28:05,Clio 5 encore neuf,142 000 DH,Mohammedia,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,Clio,,Renault,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 14:28:10,BMW Série 5 Diesel Automatique 2018 à Rabat,293 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,Oui,5.0,Serie 5,2249990.0,BMW,2018.0,Neuf,,5,5,5,4.0,5,4.9
-2024-03-25 14:28:15,Fiat Tipo Diesel Automatique 2021 à Safi,132 000 DH,Safi,"Voitures d'occasion, à vendre",Ville Nouvelle,Oui,5.0,TIPO,1149990.0,,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:28:20,Volkswagen Golf 6 2010 Dedoiner 2013,118 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,Oui,5.0,GOLF 6,1649990.0,Volkswagen,2010.0,Excellent,,8,5,5,-4.0,5,5.6
-2024-03-25 14:28:24,Jaguar F-Pace Diesel Automatique 2017 à Casablanca,270 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,F-PACE,1249990.0,Jaguar,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:28:29,Peugeot 208 Diesel Manuelle 2021 à Tanger,145 000 DH,Tanger,"Voitures d'occasion, à vendre",Drissia,Oui,,208,924990.0,Peugeot,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:28:33,Jaguar XE Diesel Automatique 2016 à Tétouan,240 000 DH,Tétouan,"Voitures d'occasion, à vendre",Al Azhar,,,XE,1249990.0,Jaguar,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
-2024-03-25 14:28:37,Land Rover Range Rover Evoque Diesel Automatique,286 000 DH,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,,5.0,Range Rover Evoque,824990.0,Land Rover,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
-2024-03-25 14:28:41,Audi Q7 Diesel S-Line 2018,360 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Diab,Oui,5.0,Q7,1449990.0,Audi,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
-2024-03-25 14:28:45,Hyundai i 10 Essence,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,,,i 10,1549990.0,Hyundai,2013.0,,,5,5,5,-1.0,5,4.4
-2024-03-25 14:28:49,Dacia Duster Diesel Manuelle 2017 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,,Duster,1949990.0,Dacia,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
-2024-03-25 14:28:53,Classe A200,PRIX NON SPÉCIFIÉ,مراكش,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Classe A,1249990.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:28:57,dacia logan,PRIX NON SPÉCIFIÉ,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Logan,474990.0,Dacia,2022.0,Très bon,WW au Maroc,7,5,10,8.0,5,6.8
-2024-03-25 14:29:02,Renault Kangoo Diesel Manuelle 2019 à Tétouan,135 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,Kangoo,874990.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:29:06,Accent excellente,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Accent,624990.0,Hyundai,,Neuf,WW au Maroc,5,5,10,,5,
-2024-03-25 14:29:10,Renault Clio 5 Diesel Manuelle 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Oui,5.0,Clio,724990.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:29:16,Hyundai ix 35 Diesel Manuelle 2014 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,ix 35,824990.0,Hyundai,2014.0,,WW au Maroc,5,5,10,0.0,5,5.0
-2024-03-25 14:29:21,peugeot 3008,120 000 DH,Kénitra,"Voitures d'occasion, à vendre",El Ismailia,Non,,3008,1749990.0,Peugeot,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
-2024-03-25 14:29:32,seat Ibiza,105 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Ibiza,674990.0,Seat,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
-2024-03-25 14:29:43,Skoda Octavia 2.0 Diesel Manuelle 2018,165 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Octavia,1749990.0,Skoda,2018.0,Très bon,,7,5,5,4.0,5,5.9
-2024-03-25 14:29:48,golf 4 mod 99 dewana 2009 mazot,66 000 DH,Agadir,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,GOLF 4,2749990.0,Volkswagen,,Excellent,Dédouanée,8,5,8,,5,
-2024-03-25 14:29:54,BMW Série 5 Diesel Automatique 2013 à Casablanca,189 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Serie 5,1749990.0,BMW,,Excellent,Importée neuve,8,5,9,,5,
-2024-03-25 14:30:01,PEUGEOT 3008 automatique première main,219 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,3008,924990.0,Peugeot,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:30:06,BMW Série 3 Diesel Automatique 2013 à Casablanca,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Serie 3,1949990.0,BMW,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:30:11,Range Rover Evoque,365 000 DH,Tanger,"Voitures d'occasion, à vendre",Castilla,Non,5.0,Range Rover Evoque,724990.0,Land Rover,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
+2024-03-25 14:28:10,BMW Série 5 Diesel Automatique 2018 à Rabat,293 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,Oui,5.0,Serie 5,22499900.0,BMW,2018.0,Neuf,,5,5,5,4.0,5,4.9
+2024-03-25 14:28:15,Fiat Tipo Diesel Automatique 2021 à Safi,132 000 DH,Safi,"Voitures d'occasion, à vendre",Ville Nouvelle,Oui,5.0,TIPO,11499900.0,,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:28:20,Volkswagen Golf 6 2010 Dedoiner 2013,118 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,Oui,5.0,GOLF 6,16499900.0,Volkswagen,2010.0,Excellent,,8,5,5,-4.0,5,5.6
+2024-03-25 14:28:24,Jaguar F-Pace Diesel Automatique 2017 à Casablanca,270 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,F-PACE,12499900.0,Jaguar,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:28:29,Peugeot 208 Diesel Manuelle 2021 à Tanger,145 000 DH,Tanger,"Voitures d'occasion, à vendre",Drissia,Oui,,208,9249900.0,Peugeot,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:28:33,Jaguar XE Diesel Automatique 2016 à Tétouan,240 000 DH,Tétouan,"Voitures d'occasion, à vendre",Al Azhar,,,XE,12499900.0,Jaguar,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
+2024-03-25 14:28:37,Land Rover Range Rover Evoque Diesel Automatique,286 000 DH,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,,5.0,Range Rover Evoque,8249900.0,Land Rover,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 14:28:41,Audi Q7 Diesel S-Line 2018,360 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Diab,Oui,5.0,Q7,14499900.0,Audi,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 14:28:45,Hyundai i 10 Essence,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,,,i 10,15499900.0,Hyundai,2013.0,,,5,5,5,-1.0,5,4.4
+2024-03-25 14:28:49,Dacia Duster Diesel Manuelle 2017 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,,Duster,19499900.0,Dacia,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
+2024-03-25 14:28:53,Classe A200,PRIX NON SPÉCIFIÉ,مراكش,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Classe A,12499900.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:28:57,dacia logan,PRIX NON SPÉCIFIÉ,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Logan,4749900.0,Dacia,2022.0,Très bon,WW au Maroc,7,5,10,8.0,5,6.8
+2024-03-25 14:29:02,Renault Kangoo Diesel Manuelle 2019 à Tétouan,135 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,Kangoo,8749900.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:29:06,Accent excellente,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Accent,6249900.0,Hyundai,,Neuf,WW au Maroc,5,5,10,,5,
+2024-03-25 14:29:10,Renault Clio 5 Diesel Manuelle 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Oui,5.0,Clio,7249900.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:29:16,Hyundai ix 35 Diesel Manuelle 2014 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,ix 35,8249900.0,Hyundai,2014.0,,WW au Maroc,5,5,10,0.0,5,5.0
+2024-03-25 14:29:21,peugeot 3008,120 000 DH,Kénitra,"Voitures d'occasion, à vendre",El Ismailia,Non,,3008,17499900.0,Peugeot,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
+2024-03-25 14:29:32,seat Ibiza,105 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Ibiza,6749900.0,Seat,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
+2024-03-25 14:29:43,Skoda Octavia 2.0 Diesel Manuelle 2018,165 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Octavia,17499900.0,Skoda,2018.0,Très bon,,7,5,5,4.0,5,5.9
+2024-03-25 14:29:48,golf 4 mod 99 dewana 2009 mazot,66 000 DH,Agadir,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,GOLF 4,27499900.0,Volkswagen,,Excellent,Dédouanée,8,5,8,,5,
+2024-03-25 14:29:54,BMW Série 5 Diesel Automatique 2013 à Casablanca,189 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Serie 5,17499900.0,BMW,,Excellent,Importée neuve,8,5,9,,5,
+2024-03-25 14:30:01,PEUGEOT 3008 automatique première main,219 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,3008,9249900.0,Peugeot,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:30:06,BMW Série 3 Diesel Automatique 2013 à Casablanca,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Serie 3,19499900.0,BMW,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:30:11,Range Rover Evoque,365 000 DH,Tanger,"Voitures d'occasion, à vendre",Castilla,Non,5.0,Range Rover Evoque,7249900.0,Land Rover,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
 2024-03-25 14:30:15,Peugeot 5008 GT 1.6 L 6 cv FULL 2021 diwana,395 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Oui,5.0,5008,,Peugeot,2021.0,Excellent,Dédouanée,8,5,8,7.0,5,7.0
-2024-03-25 14:30:19,tanger gzanaya,78 000 DH,Tanger,"Voitures d'occasion, à vendre",Aharrarine,,5.0,Logan,3249990.0,Dacia,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
-2024-03-25 14:30:25,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tiguan,924990.0,Volkswagen,2019.0,Excellent,,8,5,5,5.0,5,6.5
-2024-03-25 14:30:30,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,,Megane 3,1349990.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 14:30:19,tanger gzanaya,78 000 DH,Tanger,"Voitures d'occasion, à vendre",Aharrarine,,5.0,Logan,32499900.0,Dacia,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
+2024-03-25 14:30:25,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tiguan,9249900.0,Volkswagen,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 14:30:30,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,,Megane 3,13499900.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
 2024-03-25 14:30:34,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,3.0,Classe E,,Mercedes-Benz,2010.0,Très bon,Dédouanée,7,5,8,-4.0,5,5.3999999999999995
-2024-03-25 14:30:38,golf 4 mliha,55 000 DH,Essaouira,"Voitures d'occasion, à vendre",Skala,Non,5.0,GOLF 4,2249990.0,,1999.0,Bon,Dédouanée,5,5,8,-15.0,5,3.3
-2024-03-25 14:30:42,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,74990.0,Audi,2022.0,Excellent,Importée neuve,8,8,9,8.0,5,7.8
+2024-03-25 14:30:38,golf 4 mliha,55 000 DH,Essaouira,"Voitures d'occasion, à vendre",Skala,Non,5.0,GOLF 4,22499900.0,,1999.0,Bon,Dédouanée,5,5,8,-15.0,5,3.3
+2024-03-25 14:30:42,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,749900.0,Audi,2022.0,Excellent,Importée neuve,8,5,9,8.0,5,7.2
 2024-03-25 14:30:46,Land Rover Range Rover Sport Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Range Rover Sport,,Land Rover,2014.0,Excellent,Importée neuve,8,5,9,0.0,5,6.4
-2024-03-25 14:31:02,Clio 5 encore neuf,142 000 DH,Mohammedia,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,Clio,824990.0,,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 14:31:06,BMW Série 5 Diesel Automatique 2018 à Rabat,293 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,Oui,5.0,Serie 5,2249990.0,BMW,2018.0,Neuf,,5,5,5,4.0,5,4.9
+2024-03-25 14:31:02,Clio 5 encore neuf,142 000 DH,Mohammedia,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,Clio,8249900.0,,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-25 14:31:06,BMW Série 5 Diesel Automatique 2018 à Rabat,293 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,Oui,5.0,Serie 5,22499900.0,BMW,2018.0,Neuf,,5,5,5,4.0,5,4.9
 2024-03-25 14:31:11,Fiat Tipo Diesel Automatique 2021 à Safi,132 000 DH,Safi,"Voitures d'occasion, à vendre",Ville Nouvelle,Oui,5.0,TIPO,,Fiat,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:31:15,Volkswagen Golf 6 2010 Dedoiner 2013,118 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,Oui,5.0,GOLF 6,1649990.0,Volkswagen,2010.0,Excellent,,8,5,5,-4.0,5,5.6
-2024-03-25 14:31:20,Jaguar F-Pace Diesel Automatique 2017 à Casablanca,270 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,F-PACE,1249990.0,Jaguar,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:31:29,Peugeot 208 Diesel Manuelle 2021 à Tanger,145 000 DH,Tanger,"Voitures d'occasion, à vendre",Drissia,Oui,,208,924990.0,Peugeot,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:31:35,Jaguar XE Diesel Automatique 2016 à Tétouan,240 000 DH,Tétouan,"Voitures d'occasion, à vendre",Al Azhar,,,XE,1249990.0,Jaguar,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
-2024-03-25 14:31:39,Land Rover Range Rover Evoque Diesel Automatique,286 000 DH,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,,5.0,Range Rover Evoque,824990.0,Land Rover,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
-2024-03-25 14:31:44,Audi Q7 Diesel S-Line 2018,360 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Diab,Oui,,Q7,1449990.0,Audi,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
-2024-03-25 14:31:48,Hyundai i 10 Essence,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,,,i 10,1549990.0,Hyundai,2013.0,,,5,5,5,-1.0,5,4.4
-2024-03-25 14:31:52,Dacia Duster Diesel Manuelle 2017 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,5.0,Duster,1949990.0,Dacia,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:31:58,Classe A200,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Classe A,1249990.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:32:02,dacia logan,PRIX NON SPÉCIFIÉ,Temara,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,Logan,474990.0,Dacia,2022.0,Très bon,,7,5,5,8.0,5,6.3
-2024-03-25 14:32:06,Renault Kangoo Diesel Manuelle 2019 à Tétouan,135 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,,874990.0,Renault,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:32:11,Accent excellente,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,,624990.0,Hyundai,2022.0,Neuf,WW au Maroc,5,5,10,8.0,5,5.8
-2024-03-25 14:32:16,Renault Clio 5 Diesel Manuelle 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Oui,5.0,Clio,724990.0,Renault,2022.0,,WW au Maroc,5,5,10,8.0,5,5.8
-2024-03-25 14:32:21,Hyundai ix 35 Diesel Manuelle 2014 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,ix 35,824990.0,Hyundai,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:32:25,peugeot 3008,120 000 DH,Kénitra,"Voitures d'occasion, à vendre",El Ismailia,Non,,3008,1749990.0,Peugeot,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
-2024-03-25 14:32:28,seat Ibiza,105 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Ibiza,674990.0,Seat,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
-2024-03-25 14:32:33,Skoda Octavia 2.0 Diesel Manuelle 2018,165 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Octavia,1749990.0,Skoda,,Très bon,WW au Maroc,7,5,10,,5,
-2024-03-25 14:32:37,golf 4 mod 99 dewana 2009 mazot,66 000 DH,Agadir,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,GOLF 4,2749990.0,Volkswagen,1999.0,,Dédouanée,5,5,8,-15.0,5,3.3
-2024-03-25 14:32:41,BMW Série 5 Diesel Automatique 2013 à Casablanca,189 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Serie 5,1749990.0,BMW,,Excellent,Importée neuve,8,5,9,,5,
-2024-03-25 14:32:46,PEUGEOT 3008 automatique première main,219 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,3008,924990.0,Peugeot,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
-2024-03-25 14:32:50,BMW Série 3 Diesel Automatique 2013 à Casablanca,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,Serie 3,1949990.0,BMW,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 14:32:54,Range Rover Evoque,365 000 DH,Tanger,"Voitures d'occasion, à vendre",Castilla,,5.0,Range Rover Evoque,724990.0,Land Rover,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
-2024-03-25 14:32:59,Peugeot 5008 GT 1.6 L 6 cv FULL 2021 diwana,395 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Oui,5.0,5008,274990.0,Peugeot,,Excellent,Dédouanée,8,5,8,,5,
-2024-03-25 14:33:02,tanger gzanaya,78 000 DH,Tanger,"Voitures d'occasion, à vendre",Aharrarine,Non,5.0,Logan,3249990.0,Dacia,,Très bon,WW au Maroc,7,5,10,,5,
-2024-03-25 14:33:06,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,,Tiguan,924990.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:33:11,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,5.0,Megane 3,1349990.0,Renault,2015.0,,WW au Maroc,5,5,10,1.0,5,5.1
-2024-03-25 14:33:16,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,3.0,Classe E,2749990.0,Mercedes-Benz,,Très bon,Dédouanée,7,5,8,,5,
-2024-03-25 14:33:19,golf 4 mliha,55 000 DH,Essaouira,"Voitures d'occasion, à vendre",Skala,Non,5.0,GOLF 4,2249990.0,Volkswagen,1999.0,Bon,,5,5,5,-15.0,5,3.0
-2024-03-25 14:33:23,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,74990.0,Audi,2022.0,Excellent,Importée neuve,8,8,9,8.0,5,7.8
-2024-03-25 14:33:28,Land Rover Range Rover Sport Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Range Rover Sport,1549990.0,Land Rover,,Excellent,Importée neuve,8,5,9,,5,
-2024-03-25 14:33:32,Jaguar XF Diesel Automatique 2019 à Casablanca,292 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,XF,674990.0,Jaguar,2019.0,Excellent,,8,5,5,5.0,5,6.5
-2024-03-25 14:33:36,PORSCHE CAYENNE GTS diesel,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,,5.0,Cayenne,1449990.0,Porsche,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 14:33:52,Citroen C4 Cactus Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,C4 CACTUS,224990.0,Citroen,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:33:56,Hyundai i 20 Diesel Manuelle 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,i 20,1149990.0,Hyundai,,Très bon,WW au Maroc,7,5,10,,5,
-2024-03-25 14:34:01,Citroen C4 Diesel Automatique 2013 à Casablanca,89 997 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,C4,2249990.0,Citroen,2013.0,Excellent,,8,5,5,-1.0,5,5.9
+2024-03-25 14:31:15,Volkswagen Golf 6 2010 Dedoiner 2013,118 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,Oui,5.0,GOLF 6,16499900.0,Volkswagen,2010.0,Excellent,,8,5,5,-4.0,5,5.6
+2024-03-25 14:31:20,Jaguar F-Pace Diesel Automatique 2017 à Casablanca,270 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,F-PACE,12499900.0,Jaguar,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:31:29,Peugeot 208 Diesel Manuelle 2021 à Tanger,145 000 DH,Tanger,"Voitures d'occasion, à vendre",Drissia,Oui,,208,9249900.0,Peugeot,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:31:35,Jaguar XE Diesel Automatique 2016 à Tétouan,240 000 DH,Tétouan,"Voitures d'occasion, à vendre",Al Azhar,,,XE,12499900.0,Jaguar,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
+2024-03-25 14:31:39,Land Rover Range Rover Evoque Diesel Automatique,286 000 DH,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,,5.0,Range Rover Evoque,8249900.0,Land Rover,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 14:31:44,Audi Q7 Diesel S-Line 2018,360 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Diab,Oui,,Q7,14499900.0,Audi,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 14:31:48,Hyundai i 10 Essence,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,,,i 10,15499900.0,Hyundai,2013.0,,,5,5,5,-1.0,5,4.4
+2024-03-25 14:31:52,Dacia Duster Diesel Manuelle 2017 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,5.0,Duster,19499900.0,Dacia,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:31:58,Classe A200,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Classe A,12499900.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:32:02,dacia logan,PRIX NON SPÉCIFIÉ,Temara,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,Logan,4749900.0,Dacia,2022.0,Très bon,,7,5,5,8.0,5,6.3
+2024-03-25 14:32:06,Renault Kangoo Diesel Manuelle 2019 à Tétouan,135 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,,8749900.0,Renault,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:32:11,Accent excellente,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,,6249900.0,Hyundai,2022.0,Neuf,WW au Maroc,5,5,10,8.0,5,5.8
+2024-03-25 14:32:16,Renault Clio 5 Diesel Manuelle 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Oui,5.0,Clio,7249900.0,Renault,2022.0,,WW au Maroc,5,5,10,8.0,5,5.8
+2024-03-25 14:32:21,Hyundai ix 35 Diesel Manuelle 2014 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,ix 35,8249900.0,Hyundai,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:32:25,peugeot 3008,120 000 DH,Kénitra,"Voitures d'occasion, à vendre",El Ismailia,Non,,3008,17499900.0,Peugeot,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
+2024-03-25 14:32:28,seat Ibiza,105 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Ibiza,6749900.0,Seat,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
+2024-03-25 14:32:33,Skoda Octavia 2.0 Diesel Manuelle 2018,165 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Octavia,17499900.0,Skoda,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 14:32:37,golf 4 mod 99 dewana 2009 mazot,66 000 DH,Agadir,"Voitures d'occasion, à vendre",Centre Ville,Non,5.0,GOLF 4,27499900.0,Volkswagen,1999.0,,Dédouanée,5,5,8,-15.0,5,3.3
+2024-03-25 14:32:41,BMW Série 5 Diesel Automatique 2013 à Casablanca,189 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Serie 5,17499900.0,BMW,,Excellent,Importée neuve,8,5,9,,5,
+2024-03-25 14:32:46,PEUGEOT 3008 automatique première main,219 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,3008,9249900.0,Peugeot,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
+2024-03-25 14:32:50,BMW Série 3 Diesel Automatique 2013 à Casablanca,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,Serie 3,19499900.0,BMW,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
+2024-03-25 14:32:54,Range Rover Evoque,365 000 DH,Tanger,"Voitures d'occasion, à vendre",Castilla,,5.0,Range Rover Evoque,7249900.0,Land Rover,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 14:32:59,Peugeot 5008 GT 1.6 L 6 cv FULL 2021 diwana,395 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Oui,5.0,5008,2749900.0,Peugeot,,Excellent,Dédouanée,8,5,8,,5,
+2024-03-25 14:33:02,tanger gzanaya,78 000 DH,Tanger,"Voitures d'occasion, à vendre",Aharrarine,Non,5.0,Logan,32499900.0,Dacia,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 14:33:06,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,,Tiguan,9249900.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:33:11,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,5.0,Megane 3,13499900.0,Renault,2015.0,,WW au Maroc,5,5,10,1.0,5,5.1
+2024-03-25 14:33:16,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,3.0,Classe E,27499900.0,Mercedes-Benz,,Très bon,Dédouanée,7,5,8,,5,
+2024-03-25 14:33:19,golf 4 mliha,55 000 DH,Essaouira,"Voitures d'occasion, à vendre",Skala,Non,5.0,GOLF 4,22499900.0,Volkswagen,1999.0,Bon,,5,5,5,-15.0,5,3.0
+2024-03-25 14:33:23,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,749900.0,Audi,2022.0,Excellent,Importée neuve,8,5,9,8.0,5,7.2
+2024-03-25 14:33:28,Land Rover Range Rover Sport Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Range Rover Sport,15499900.0,Land Rover,,Excellent,Importée neuve,8,5,9,,5,
+2024-03-25 14:33:32,Jaguar XF Diesel Automatique 2019 à Casablanca,292 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,XF,6749900.0,Jaguar,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 14:33:36,PORSCHE CAYENNE GTS diesel,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,,5.0,Cayenne,14499900.0,Porsche,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
+2024-03-25 14:33:52,Citroen C4 Cactus Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,C4 CACTUS,2249900.0,Citroen,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:33:56,Hyundai i 20 Diesel Manuelle 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,i 20,11499900.0,Hyundai,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 14:34:01,Citroen C4 Diesel Automatique 2013 à Casablanca,89 997 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,C4,22499900.0,Citroen,2013.0,Excellent,,8,5,5,-1.0,5,5.9
 2024-03-25 14:34:05,touran 7 blays modil 2016 diwana 2021,PRIX NON SPÉCIFIÉ,Al Hoceima,"Voitures d'occasion, à vendre",Toute la ville,Non,5.0,Touran,,Volkswagen,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
-2024-03-25 14:34:09,Peugeot 206,PRIX NON SPÉCIFIÉ,Meknès,"Voitures d'occasion, à vendre",Hay Salam,,,206,1049990.0,Peugeot,1999.0,,,5,5,5,-15.0,5,3.0
-2024-03-25 14:34:13,BMW X1 - 2021 - Boîte automatique,335 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,X1,824990.0,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:34:17,Volkswagen Tiguan Diesel Automatique 2018,330 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Tiguan,1249990.0,Volkswagen,2018.0,Excellent,Dédouanée,8,5,8,4.0,5,6.7
-2024-03-25 14:34:22,Seat Leon Diesel Automatique 2016 à Rabat,150 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Leon,1549990.0,Seat,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
-2024-03-25 14:34:26,Volkswagen Caddy ambulance,120 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Caddy,1249990.0,,2011.0,Très bon,Dédouanée,7,5,8,-3.0,5,5.5
-2024-03-25 14:34:30,Seat Ibiza Diesel Manuelle 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Ibiza,974990.0,Seat,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
-2024-03-25 14:34:34,Skoda Octavia Diesel,165 000 DH,Agadir,"Voitures d'occasion, à vendre",El Houda,,5.0,Octavia,1049990.0,Skoda,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:34:39,Peugeot tepee,80 000 DH,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Tepee,1649990.0,Peugeot,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:34:43,Porsche Cayenne 3.0 V6 Diesel 2010,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Mozart,,5.0,Cayenne,1949990.0,Porsche,2010.0,Très bon,WW au Maroc,7,5,10,-4.0,5,5.6
-2024-03-25 14:34:47,BMW Série 1 Diesel,108 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,,5.0,Serie 1,1349990.0,BMW,2011.0,Excellent,Importée neuve,8,5,9,-3.0,5,6.1000000000000005
-2024-03-25 14:34:51,Citroen c3 diesel 2006,59 000 DH,Nador,"Voitures d'occasion, à vendre",Al aroui,,,C3,1949990.0,Citroen,2006.0,,,5,5,5,-8.0,5,3.7
-2024-03-25 14:34:56,santa fe toute option,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,,Santa Fe,1249990.0,Hyundai,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
-2024-03-25 14:35:00,Ford Kuga Diesel Manuelle 2020 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,,Kuga,424990.0,Ford,2020.0,,,5,5,5,6.0,5,5.1
-2024-03-25 14:35:04,BMW Série 4 Gran Coupé Automatique 2023 4000 KM,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,Serie 4 gran coupé,24990.0,BMW,2023.0,Neuf,Importée neuve,5,9,9,9.0,5,6.6000000000000005
-2024-03-25 14:35:08,Mercedes-Benz Classe E Cabriolet Diesel 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,3.0,classe_e_cabriolet,324990.0,Mercedes-Benz,2021.0,Excellent,Importée neuve,8,5,9,7.0,5,7.1000000000000005
-2024-03-25 14:35:12,Fiat Doblo Diesel Manuelle 2019 à Meknès,105 000 DH,Meknès,"Voitures d'occasion, à vendre",Marjane 2,Non,3.0,Doblo,1449990.0,Fiat,,Excellent,Dédouanée,8,5,8,,5,
-2024-03-25 14:35:16,Ford Fiesta Diesel Manuelle 2006 à Meknès,60 000 DH,Meknès,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Fiesta,2249990.0,Ford,2006.0,,WW au Maroc,5,5,10,-8.0,5,4.2
-2024-03-25 14:35:21,Volkswagen Touran 2.0 TDi BVA 2016 diwana,228 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Touran,2249990.0,Volkswagen,2016.0,,Dédouanée,5,5,8,2.0,5,5.0
-2024-03-25 14:35:25,MERCEDES E230D AOTOUMATIQE,378 000 DH,Agadir,"Voitures d'occasion, à vendre",Assaka,Oui,5.0,220,1049990.0,,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
-2024-03-25 14:35:29,BMW 316 2ème main,125 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Serie 3,2249990.0,BMW,2011.0,Excellent,WW au Maroc,8,5,10,-3.0,5,6.2
-2024-03-25 14:35:33,dacia sandero stepway,92 000 DH,Bab Berred,"Voitures d'occasion, à vendre",Toute la ville,Oui,,sandero_stepway,1049990.0,Dacia,2018.0,Correct,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 14:34:09,Peugeot 206,PRIX NON SPÉCIFIÉ,Meknès,"Voitures d'occasion, à vendre",Hay Salam,,,206,10499900.0,Peugeot,1999.0,,,5,5,5,-15.0,5,3.0
+2024-03-25 14:34:13,BMW X1 - 2021 - Boîte automatique,335 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,X1,8249900.0,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:34:17,Volkswagen Tiguan Diesel Automatique 2018,330 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Tiguan,12499900.0,Volkswagen,2018.0,Excellent,Dédouanée,8,5,8,4.0,5,6.7
+2024-03-25 14:34:22,Seat Leon Diesel Automatique 2016 à Rabat,150 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Leon,15499900.0,Seat,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
+2024-03-25 14:34:26,Volkswagen Caddy ambulance,120 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Caddy,12499900.0,,2011.0,Très bon,Dédouanée,7,5,8,-3.0,5,5.5
+2024-03-25 14:34:30,Seat Ibiza Diesel Manuelle 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Ibiza,9749900.0,Seat,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
+2024-03-25 14:34:34,Skoda Octavia Diesel,165 000 DH,Agadir,"Voitures d'occasion, à vendre",El Houda,,5.0,Octavia,10499900.0,Skoda,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:34:39,Peugeot tepee,80 000 DH,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Tepee,16499900.0,Peugeot,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:34:43,Porsche Cayenne 3.0 V6 Diesel 2010,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Mozart,,5.0,Cayenne,19499900.0,Porsche,2010.0,Très bon,WW au Maroc,7,5,10,-4.0,5,5.6
+2024-03-25 14:34:47,BMW Série 1 Diesel,108 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,,5.0,Serie 1,13499900.0,BMW,2011.0,Excellent,Importée neuve,8,5,9,-3.0,5,6.1000000000000005
+2024-03-25 14:34:51,Citroen c3 diesel 2006,59 000 DH,Nador,"Voitures d'occasion, à vendre",Al aroui,,,C3,19499900.0,Citroen,2006.0,,,5,5,5,-8.0,5,3.7
+2024-03-25 14:34:56,santa fe toute option,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,,Santa Fe,12499900.0,Hyundai,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
+2024-03-25 14:35:00,Ford Kuga Diesel Manuelle 2020 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,,Kuga,4249900.0,Ford,2020.0,,,5,5,5,6.0,5,5.1
+2024-03-25 14:35:04,BMW Série 4 Gran Coupé Automatique 2023 4000 KM,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,Serie 4 gran coupé,249900.0,BMW,2023.0,Neuf,Importée neuve,5,5,9,9.0,5,5.800000000000001
+2024-03-25 14:35:08,Mercedes-Benz Classe E Cabriolet Diesel 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,3.0,classe_e_cabriolet,3249900.0,Mercedes-Benz,2021.0,Excellent,Importée neuve,8,5,9,7.0,5,7.1000000000000005
+2024-03-25 14:35:12,Fiat Doblo Diesel Manuelle 2019 à Meknès,105 000 DH,Meknès,"Voitures d'occasion, à vendre",Marjane 2,Non,3.0,Doblo,14499900.0,Fiat,,Excellent,Dédouanée,8,5,8,,5,
+2024-03-25 14:35:16,Ford Fiesta Diesel Manuelle 2006 à Meknès,60 000 DH,Meknès,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Fiesta,22499900.0,Ford,2006.0,,WW au Maroc,5,5,10,-8.0,5,4.2
+2024-03-25 14:35:21,Volkswagen Touran 2.0 TDi BVA 2016 diwana,228 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Touran,22499900.0,Volkswagen,2016.0,,Dédouanée,5,5,8,2.0,5,5.0
+2024-03-25 14:35:25,MERCEDES E230D AOTOUMATIQE,378 000 DH,Agadir,"Voitures d'occasion, à vendre",Assaka,Oui,5.0,220,10499900.0,,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 14:35:29,BMW 316 2ème main,125 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Serie 3,22499900.0,BMW,2011.0,Excellent,WW au Maroc,8,5,10,-3.0,5,6.2
+2024-03-25 14:35:33,dacia sandero stepway,92 000 DH,Bab Berred,"Voitures d'occasion, à vendre",Toute la ville,Oui,,sandero_stepway,10499900.0,Dacia,2018.0,Correct,WW au Maroc,5,5,10,4.0,5,5.4
 2024-03-25 14:35:37,Ford Fiesta Diesel Manuelle 2013 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Yacoub El Mansour,Oui,5.0,Fiesta,,Ford,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 14:35:41,Hyundai Accent Diesel Automatique 2016 à Rabat,110 000 DH,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Accent,2249990.0,Hyundai,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:35:45,Volkswagen Touran Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Non,5.0,Touran,1049990.0,Volkswagen,2016.0,Très bon,,7,5,5,2.0,5,5.7
-2024-03-25 14:35:50,Land Rover Range Rover Evoque Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,,924990.0,Land Rover,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:35:55,Jeep Compass Essence Automatique 2023 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Derb Ghallef,Oui,,Compass,24990.0,Jeep,2023.0,Excellent,WW au Maroc,8,9,10,9.0,5,8.2
+2024-03-25 14:35:41,Hyundai Accent Diesel Automatique 2016 à Rabat,110 000 DH,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Accent,22499900.0,Hyundai,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:35:45,Volkswagen Touran Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Non,5.0,Touran,10499900.0,Volkswagen,2016.0,Très bon,,7,5,5,2.0,5,5.7
+2024-03-25 14:35:50,Land Rover Range Rover Evoque Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,,9249900.0,Land Rover,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:35:55,Jeep Compass Essence Automatique 2023 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Derb Ghallef,Oui,,Compass,249900.0,Jeep,2023.0,Excellent,WW au Maroc,8,5,10,9.0,5,7.4
 2024-03-25 14:35:59,Peugeot 308 Diesel Automatique 2022 à Fès,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Centre,Oui,5.0,308,,Peugeot,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 14:36:03,Audi A5 Essence Automatique 2009 à Rabat,85 000 DH,Rabat,"Voitures d'occasion, à vendre",Agdal,,3.0,A5,1049990.0,Audi,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
-2024-03-25 14:36:07,Volvo S90 B5 AWD Diesel 235 ch Plus Bright,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Alsace Lorraine,Oui,5.0,S90,24990.0,,2023.0,Neuf,WW au Maroc,5,9,10,9.0,5,6.7
-2024-03-25 14:36:11,vw jetta automatique 2L model 2018,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Jetta,824990.0,Volkswagen,2018.0,Excellent,,8,5,5,4.0,5,6.4
-2024-03-25 14:36:15,Mercedes-Benz Classe C Cabriolet Diesel 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,Oui,,classe_c_cabriolet,624990.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,5,9,4.0,5,6.800000000000001
-2024-03-25 14:36:31,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tiguan,924990.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:36:38,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,Megane 3,1349990.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
-2024-03-25 14:36:44,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,3.0,Classe E,2749990.0,Mercedes-Benz,,Très bon,Dédouanée,7,5,8,,5,
+2024-03-25 14:36:03,Audi A5 Essence Automatique 2009 à Rabat,85 000 DH,Rabat,"Voitures d'occasion, à vendre",Agdal,,3.0,A5,10499900.0,Audi,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
+2024-03-25 14:36:07,Volvo S90 B5 AWD Diesel 235 ch Plus Bright,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Alsace Lorraine,Oui,5.0,S90,249900.0,,2023.0,Neuf,WW au Maroc,5,5,10,9.0,5,5.9
+2024-03-25 14:36:11,vw jetta automatique 2L model 2018,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Jetta,8249900.0,Volkswagen,2018.0,Excellent,,8,5,5,4.0,5,6.4
+2024-03-25 14:36:15,Mercedes-Benz Classe C Cabriolet Diesel 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,Oui,,classe_c_cabriolet,6249900.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,5,9,4.0,5,6.800000000000001
+2024-03-25 14:36:31,Volkswagen Tiguan Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tiguan,9249900.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:36:38,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,Megane 3,13499900.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 14:36:44,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,3.0,Classe E,27499900.0,Mercedes-Benz,,Très bon,Dédouanée,7,5,8,,5,
 2024-03-25 14:36:49,golf 4 mliha,55 000 DH,Essaouira,"Voitures d'occasion, à vendre",Skala,Non,5.0,GOLF 4,,Volkswagen,1999.0,Bon,Dédouanée,5,5,8,-15.0,5,3.3
-2024-03-25 14:36:56,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,74990.0,Audi,2022.0,Excellent,Importée neuve,8,8,9,8.0,5,7.8
-2024-03-25 14:37:02,Land Rover Range Rover Sport Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,Range Rover Sport,1549990.0,Land Rover,2014.0,Excellent,Importée neuve,8,5,9,0.0,5,6.4
-2024-03-25 14:37:07,Jaguar XF Diesel Automatique 2019 à Casablanca,292 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,XF,674990.0,Jaguar,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
-2024-03-25 14:37:13,PORSCHE CAYENNE GTS diesel,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,Oui,5.0,Cayenne,1449990.0,,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 14:37:17,Citroen C4 Cactus Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,C4 CACTUS,224990.0,Citroen,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 14:37:21,Hyundai i 20 Diesel Manuelle 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,i 20,1149990.0,Hyundai,,Très bon,WW au Maroc,7,5,10,,5,
-2024-03-25 14:37:27,Citroen C4 Diesel Automatique 2013 à Casablanca,89 997 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,C4,2249990.0,Citroen,2013.0,Excellent,,8,5,5,-1.0,5,5.9
-2024-03-25 14:37:32,touran 7 blays modil 2016 diwana 2021,PRIX NON SPÉCIFIÉ,Al Hoceima,"Voitures d'occasion, à vendre",Toute la ville,Non,,Touran,1949990.0,Volkswagen,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
-2024-03-25 14:37:36,Peugeot 206,PRIX NON SPÉCIFIÉ,Meknès,"Voitures d'occasion, à vendre",Hay Salam,,,206,1049990.0,Peugeot,1999.0,,,5,5,5,-15.0,5,3.0
-2024-03-25 14:37:40,BMW X1 - 2021 - Boîte automatique,335 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Oui,5.0,,824990.0,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:37:45,Volkswagen Tiguan Diesel Automatique 2018,330 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Tiguan,1249990.0,Volkswagen,2018.0,,Dédouanée,5,5,8,4.0,5,5.2
-2024-03-25 14:37:49,Seat Leon Diesel Automatique 2016 à Rabat,150 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Leon,1549990.0,Seat,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:37:53,Volkswagen Caddy ambulance,120 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Caddy,1249990.0,,2011.0,Très bon,Dédouanée,7,5,8,-3.0,5,5.5
-2024-03-25 14:37:57,Seat Ibiza Diesel Manuelle 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Ibiza,974990.0,Seat,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
-2024-03-25 14:38:02,Skoda Octavia Diesel,165 000 DH,Agadir,"Voitures d'occasion, à vendre",El Houda,,5.0,Octavia,1049990.0,Skoda,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:38:06,Peugeot tepee,80 000 DH,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Tepee,1649990.0,Peugeot,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
-2024-03-25 14:38:10,Porsche Cayenne 3.0 V6 Diesel 2010,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Cayenne,1949990.0,,2010.0,Très bon,WW au Maroc,7,5,10,-4.0,5,5.6
-2024-03-25 14:38:14,BMW Série 1 Diesel,108 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,,5.0,Serie 1,1349990.0,BMW,2011.0,Excellent,Importée neuve,8,5,9,-3.0,5,6.1000000000000005
-2024-03-25 14:38:18,Citroen c3 diesel 2006,59 000 DH,Nador,"Voitures d'occasion, à vendre",Al aroui,,,C3,1949990.0,Citroen,2006.0,,,5,5,5,-8.0,5,3.7
-2024-03-25 14:38:22,santa fe toute option,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,5.0,Santa Fe,1249990.0,Hyundai,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
-2024-03-25 14:38:26,Ford Kuga Diesel Manuelle 2020 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,,Kuga,424990.0,Ford,2020.0,,,5,5,5,6.0,5,5.1
-2024-03-25 14:38:30,BMW Série 4 Gran Coupé Automatique 2023 4000 KM,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,Serie 4 gran coupé,24990.0,BMW,2023.0,Neuf,Importée neuve,5,9,9,9.0,5,6.6000000000000005
-2024-03-25 14:38:34,Mercedes-Benz Classe E Cabriolet Diesel 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,3.0,classe_e_cabriolet,324990.0,Mercedes-Benz,2021.0,Excellent,Importée neuve,8,5,9,7.0,5,7.1000000000000005
-2024-03-25 14:38:38,Fiat Doblo Diesel Manuelle 2019 à Meknès,105 000 DH,Meknès,"Voitures d'occasion, à vendre",Marjane 2,Non,3.0,Doblo,1449990.0,Fiat,2019.0,,Dédouanée,5,5,8,5.0,5,5.3
-2024-03-25 14:38:42,Ford Fiesta Diesel Manuelle 2006 à Meknès,60 000 DH,Meknès,"Voitures d'occasion, à vendre",Autre secteur,Non,,Fiesta,2249990.0,Ford,2006.0,Excellent,WW au Maroc,8,5,10,-8.0,5,5.7
-2024-03-25 14:38:47,Volkswagen Touran 2.0 TDi BVA 2016 diwana,228 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Touran,2249990.0,,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
-2024-03-25 14:38:51,MERCEDES E230D AOTOUMATIQE,378 000 DH,Agadir,"Voitures d'occasion, à vendre",Assaka,Oui,5.0,220,1049990.0,,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
-2024-03-25 14:38:55,BMW 316 2ème main,125 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Non,5.0,Serie 3,2249990.0,BMW,2011.0,,WW au Maroc,5,5,10,-3.0,5,4.7
-2024-03-25 14:38:59,dacia sandero stepway,92 000 DH,Bab Berred,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,sandero_stepway,1049990.0,Dacia,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
-2024-03-25 14:39:04,Ford Fiesta Diesel Manuelle 2013 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Yacoub El Mansour,,5.0,Fiesta,1049990.0,Ford,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 14:39:08,Hyundai Accent Diesel Automatique 2016 à Rabat,110 000 DH,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Accent,2249990.0,,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
+2024-03-25 14:36:56,Audi RSQ8 Essence Automatique 2022 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,5.0,RSQ8,749900.0,Audi,2022.0,Excellent,Importée neuve,8,5,9,8.0,5,7.2
+2024-03-25 14:37:02,Land Rover Range Rover Sport Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,Range Rover Sport,15499900.0,Land Rover,2014.0,Excellent,Importée neuve,8,5,9,0.0,5,6.4
+2024-03-25 14:37:07,Jaguar XF Diesel Automatique 2019 à Casablanca,292 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,XF,6749900.0,Jaguar,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
+2024-03-25 14:37:13,PORSCHE CAYENNE GTS diesel,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,Oui,5.0,Cayenne,14499900.0,,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
+2024-03-25 14:37:17,Citroen C4 Cactus Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,C4 CACTUS,2249900.0,Citroen,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-25 14:37:21,Hyundai i 20 Diesel Manuelle 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,i 20,11499900.0,Hyundai,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 14:37:27,Citroen C4 Diesel Automatique 2013 à Casablanca,89 997 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,C4,22499900.0,Citroen,2013.0,Excellent,,8,5,5,-1.0,5,5.9
+2024-03-25 14:37:32,touran 7 blays modil 2016 diwana 2021,PRIX NON SPÉCIFIÉ,Al Hoceima,"Voitures d'occasion, à vendre",Toute la ville,Non,,Touran,19499900.0,Volkswagen,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
+2024-03-25 14:37:36,Peugeot 206,PRIX NON SPÉCIFIÉ,Meknès,"Voitures d'occasion, à vendre",Hay Salam,,,206,10499900.0,Peugeot,1999.0,,,5,5,5,-15.0,5,3.0
+2024-03-25 14:37:40,BMW X1 - 2021 - Boîte automatique,335 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Oui,5.0,,8249900.0,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:37:45,Volkswagen Tiguan Diesel Automatique 2018,330 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Tiguan,12499900.0,Volkswagen,2018.0,,Dédouanée,5,5,8,4.0,5,5.2
+2024-03-25 14:37:49,Seat Leon Diesel Automatique 2016 à Rabat,150 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Leon,15499900.0,Seat,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:37:53,Volkswagen Caddy ambulance,120 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Caddy,12499900.0,,2011.0,Très bon,Dédouanée,7,5,8,-3.0,5,5.5
+2024-03-25 14:37:57,Seat Ibiza Diesel Manuelle 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,Ibiza,9749900.0,Seat,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
+2024-03-25 14:38:02,Skoda Octavia Diesel,165 000 DH,Agadir,"Voitures d'occasion, à vendre",El Houda,,5.0,Octavia,10499900.0,Skoda,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:38:06,Peugeot tepee,80 000 DH,Temara,"Voitures d'occasion, à vendre",Centre Ville,,5.0,Tepee,16499900.0,Peugeot,2017.0,Très bon,WW au Maroc,7,5,10,3.0,5,6.3
+2024-03-25 14:38:10,Porsche Cayenne 3.0 V6 Diesel 2010,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Cayenne,19499900.0,,2010.0,Très bon,WW au Maroc,7,5,10,-4.0,5,5.6
+2024-03-25 14:38:14,BMW Série 1 Diesel,108 000 DH,El Jadida,"Voitures d'occasion, à vendre",Al Kodia,,5.0,Serie 1,13499900.0,BMW,2011.0,Excellent,Importée neuve,8,5,9,-3.0,5,6.1000000000000005
+2024-03-25 14:38:18,Citroen c3 diesel 2006,59 000 DH,Nador,"Voitures d'occasion, à vendre",Al aroui,,,C3,19499900.0,Citroen,2006.0,,,5,5,5,-8.0,5,3.7
+2024-03-25 14:38:22,santa fe toute option,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,5.0,Santa Fe,12499900.0,Hyundai,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
+2024-03-25 14:38:26,Ford Kuga Diesel Manuelle 2020 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,,Kuga,4249900.0,Ford,2020.0,,,5,5,5,6.0,5,5.1
+2024-03-25 14:38:30,BMW Série 4 Gran Coupé Automatique 2023 4000 KM,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,Serie 4 gran coupé,249900.0,BMW,2023.0,Neuf,Importée neuve,5,5,9,9.0,5,5.800000000000001
+2024-03-25 14:38:34,Mercedes-Benz Classe E Cabriolet Diesel 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Anfa,,3.0,classe_e_cabriolet,3249900.0,Mercedes-Benz,2021.0,Excellent,Importée neuve,8,5,9,7.0,5,7.1000000000000005
+2024-03-25 14:38:38,Fiat Doblo Diesel Manuelle 2019 à Meknès,105 000 DH,Meknès,"Voitures d'occasion, à vendre",Marjane 2,Non,3.0,Doblo,14499900.0,Fiat,2019.0,,Dédouanée,5,5,8,5.0,5,5.3
+2024-03-25 14:38:42,Ford Fiesta Diesel Manuelle 2006 à Meknès,60 000 DH,Meknès,"Voitures d'occasion, à vendre",Autre secteur,Non,,Fiesta,22499900.0,Ford,2006.0,Excellent,WW au Maroc,8,5,10,-8.0,5,5.7
+2024-03-25 14:38:47,Volkswagen Touran 2.0 TDi BVA 2016 diwana,228 000 DH,Tanger,"Voitures d'occasion, à vendre",Mozart,Non,5.0,Touran,22499900.0,,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
+2024-03-25 14:38:51,MERCEDES E230D AOTOUMATIQE,378 000 DH,Agadir,"Voitures d'occasion, à vendre",Assaka,Oui,5.0,220,10499900.0,,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 14:38:55,BMW 316 2ème main,125 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Non,5.0,Serie 3,22499900.0,BMW,2011.0,,WW au Maroc,5,5,10,-3.0,5,4.7
+2024-03-25 14:38:59,dacia sandero stepway,92 000 DH,Bab Berred,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,sandero_stepway,10499900.0,Dacia,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 14:39:04,Ford Fiesta Diesel Manuelle 2013 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Yacoub El Mansour,,5.0,Fiesta,10499900.0,Ford,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
+2024-03-25 14:39:08,Hyundai Accent Diesel Automatique 2016 à Rabat,110 000 DH,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Accent,22499900.0,,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
 2024-03-25 14:39:23,Volkswagen Touran Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,Non,5.0,Touran,,Volkswagen,2016.0,Très bon,Dédouanée,7,5,8,2.0,5,6.0
-2024-03-25 14:39:28,Land Rover Range Rover Evoque Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,Range Rover Evoque,924990.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
-2024-03-25 14:39:31,Jeep Compass Essence Automatique 2023 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Derb Ghallef,,5.0,Compass,24990.0,Jeep,2023.0,Excellent,WW au Maroc,8,9,10,9.0,5,8.2
-2024-03-25 14:39:36,Peugeot 308 Diesel Automatique 2022 à Fès,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Centre,,5.0,308,74990.0,Peugeot,2022.0,Excellent,WW au Maroc,8,8,10,8.0,5,7.8999999999999995
-2024-03-25 14:39:40,Audi A5 Essence Automatique 2009 à Rabat,85 000 DH,Rabat,"Voitures d'occasion, à vendre",Agdal,Non,3.0,A5,1049990.0,Audi,2009.0,,WW au Maroc,5,5,10,-5.0,5,4.5
-2024-03-25 14:39:44,Volvo S90 B5 AWD Diesel 235 ch Plus Bright,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Alsace Lorraine,Oui,5.0,S90,24990.0,Volvo,,Neuf,WW au Maroc,5,9,10,,5,
-2024-03-25 14:39:48,vw jetta automatique 2L model 2018,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Jetta,824990.0,Volkswagen,2018.0,Excellent,,8,5,5,4.0,5,6.4
-2024-03-25 14:39:52,Mercedes-Benz Classe C Cabriolet Diesel 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,,5.0,classe_c_cabriolet,624990.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,5,9,4.0,5,6.800000000000001
-2024-03-25 14:39:56,Opel Astra Diesel Manuelle 2015 à Casablanca,123 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Oui,5.0,Astra,1249990.0,,2015.0,Neuf,WW au Maroc,5,5,10,1.0,5,5.1
-2024-03-25 14:40:00,Occasion Mercedes classe E,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,Classe E,24990.0,Mercedes-Benz,2023.0,,Importée neuve,5,9,9,9.0,5,6.6000000000000005
-2024-03-25 14:40:04,bmw série 4,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,,Serie 4 gran coupé,1149990.0,BMW,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:39:28,Land Rover Range Rover Evoque Diesel Automatique,350 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,Range Rover Evoque,9249900.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 14:39:31,Jeep Compass Essence Automatique 2023 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Derb Ghallef,,5.0,Compass,249900.0,Jeep,2023.0,Excellent,WW au Maroc,8,5,10,9.0,5,7.4
+2024-03-25 14:39:36,Peugeot 308 Diesel Automatique 2022 à Fès,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Centre,,5.0,308,749900.0,Peugeot,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-25 14:39:40,Audi A5 Essence Automatique 2009 à Rabat,85 000 DH,Rabat,"Voitures d'occasion, à vendre",Agdal,Non,3.0,A5,10499900.0,Audi,2009.0,,WW au Maroc,5,5,10,-5.0,5,4.5
+2024-03-25 14:39:44,Volvo S90 B5 AWD Diesel 235 ch Plus Bright,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Alsace Lorraine,Oui,5.0,S90,249900.0,Volvo,,Neuf,WW au Maroc,5,5,10,,5,
+2024-03-25 14:39:48,vw jetta automatique 2L model 2018,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Jetta,8249900.0,Volkswagen,2018.0,Excellent,,8,5,5,4.0,5,6.4
+2024-03-25 14:39:52,Mercedes-Benz Classe C Cabriolet Diesel 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,,5.0,classe_c_cabriolet,6249900.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,5,9,4.0,5,6.800000000000001
+2024-03-25 14:39:56,Opel Astra Diesel Manuelle 2015 à Casablanca,123 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Oui,5.0,Astra,12499900.0,,2015.0,Neuf,WW au Maroc,5,5,10,1.0,5,5.1
+2024-03-25 14:40:00,Occasion Mercedes classe E,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,Classe E,249900.0,Mercedes-Benz,2023.0,,Importée neuve,5,5,9,9.0,5,5.800000000000001
+2024-03-25 14:40:04,bmw série 4,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,,Serie 4 gran coupé,11499900.0,BMW,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
 2024-03-25 14:40:08,Volkswagen Golf 7 GTD 7.5,310 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,GOLF 7,,Volkswagen,2018.0,Excellent,Dédouanée,8,5,8,4.0,5,6.7
-2024-03-25 14:40:12,Dacia Logan Diesel Manuelle 2018 à Casablanca,119 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,,124990.0,Dacia,2018.0,Excellent,WW au Maroc,8,7,10,4.0,5,7.300000000000001
-2024-03-25 14:40:17,Volkswagen T-Roc R Line,345 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,t-roc,1049990.0,,2019.0,Excellent,Dédouanée,8,5,8,5.0,5,6.8
-2024-03-25 14:40:21,Toyota Corolla 2007,PRIX NON SPÉCIFIÉ,Tiznit,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,Corolla,1249990.0,,2007.0,Très bon,WW au Maroc,7,5,10,-7.0,5,5.3
-2024-03-25 14:40:25,Dacia dokker,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,Dokker,1249990.0,Dacia,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:40:29,Kia Picanto Essence Automatique 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Picanto,424990.0,Kia,2022.0,Excellent,,8,5,5,8.0,5,6.8
-2024-03-25 14:40:33,Mercedes-Benz Classe A Diesel Automatique 2020,355 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Classe A,1449990.0,Mercedes-Benz,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 14:40:38,Mercedes-Benz Classe GLE Coupé Hybride 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,classe_gle_coupe,24990.0,Mercedes-Benz,,Neuf,Importée neuve,5,9,9,,5,
-2024-03-25 14:40:41,Mercedes-Benz Classe E Diesel Automatique 1982,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,,5.0,Classe E,1949990.0,Mercedes-Benz,1982.0,Excellent,Dédouanée,8,5,8,-32.0,5,3.0999999999999996
-2024-03-25 14:40:46,BMW X1 116D,209 000 DH,Oujda,"Voitures d'occasion, à vendre",Autre secteur,,5.0,X1,1649990.0,BMW,2016.0,Neuf,Dédouanée,5,5,8,2.0,5,5.0
-2024-03-25 14:40:52,Volkswagen Touareg Diesel Automatique 2014,138 000 DH,Tanger,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,Touareg,1849990.0,Volkswagen,2014.0,Excellent,,8,5,5,0.0,5,6.0
-2024-03-25 14:40:58,Porsche Cayenne Diesel 2015,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Centre ville,Non,5.0,Cayenne,1049990.0,Porsche,2015.0,Excellent,,8,5,5,1.0,5,6.1
-2024-03-25 14:41:02,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,GOLF 7,974990.0,Volkswagen,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
-2024-03-25 14:41:07,Jeep Grand Cherokee Diesel Automatique 2017,190 000 DH,Agadir,"Voitures d'occasion, à vendre",Agadir Oufella,Non,5.0,Grand Cherokee,1249990.0,Jeep,2017.0,Très bon,,7,5,5,3.0,5,5.8
-2024-03-25 14:41:12,Mercedes-Benz Classe C 220d 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Classe C,24990.0,Mercedes-Benz,2024.0,Neuf,,5,9,5,10.0,5,6.3
-2024-03-25 14:41:16,audi rs3 facelift,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,RS3,724990.0,Audi,,Excellent,Importée neuve,8,5,9,,5,
-2024-03-25 14:41:20,Mercedes-Benz Classe GLC Coupé Diesel 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,CLASSE GLC COUPE,24990.0,Mercedes-Benz,2024.0,Neuf,,5,9,5,10.0,5,6.3
-2024-03-25 14:41:25,très belle c5 aircross,215 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Oui,,C5 Aircross,774990.0,Citroen,2020.0,Très bon,WW au Maroc,7,5,10,6.0,5,6.6
-2024-03-25 14:41:30,Hyundai Tucson Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,,524990.0,Hyundai,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 14:41:34,Volkswagen Caddy Diesel Automatique 2021 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,,5.0,Caddy,474990.0,Volkswagen,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
-2024-03-25 14:41:39,Audi RSQ3 Essence Automatique 2022 à Fès,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Route Ain Chkaf,,5.0,RSQ3,324990.0,Audi,2022.0,Neuf,Importée neuve,5,5,9,8.0,5,5.7
-2024-03-25 14:41:43,Peugeot 406 HDi 8ch didwani,PRIX NON SPÉCIFIÉ,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,406,1149990.0,Peugeot,,Excellent,Dédouanée,8,5,8,,5,
-2024-03-25 14:41:47,Porsche PANAMERA 4S - V8 ESSENCE - 60.000 KM,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Yacoub El Mansour,Non,5.0,Panamera,624990.0,,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
-2024-03-25 14:41:53,Hyundai i 20 Diesel Manuelle 2013 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,i 20,1449990.0,Hyundai,2013.0,Très bon,WW au Maroc,7,5,10,-1.0,5,5.9
-2024-03-25 18:08:59,Toyota Hilux Diesel Manuelle 2014 à Dakhla,230 000 DH,Dakhla,"Voitures d'occasion, à vendre",Toute la ville,Non,3.0,,224999.0,Toyota,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
-2024-03-25 18:09:04,Volkswagen Golf 7 Diesel Automatique 2018,180 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,,GOLF 7,72499.0,Volkswagen,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
-2024-03-25 18:09:09,Audi A6 Diesel Automatique 2017 à Casablanca,230 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,3.0,A6,174999.0,Audi,2017.0,Excellent,,8,5,5,3.0,5,6.3
+2024-03-25 14:40:12,Dacia Logan Diesel Manuelle 2018 à Casablanca,119 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,,1249900.0,Dacia,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 14:40:17,Volkswagen T-Roc R Line,345 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,t-roc,10499900.0,,2019.0,Excellent,Dédouanée,8,5,8,5.0,5,6.8
+2024-03-25 14:40:21,Toyota Corolla 2007,PRIX NON SPÉCIFIÉ,Tiznit,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,Corolla,12499900.0,,2007.0,Très bon,WW au Maroc,7,5,10,-7.0,5,5.3
+2024-03-25 14:40:25,Dacia dokker,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,Dokker,12499900.0,Dacia,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:40:29,Kia Picanto Essence Automatique 2022 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Massira 1,,,Picanto,4249900.0,Kia,2022.0,Excellent,,8,5,5,8.0,5,6.8
+2024-03-25 14:40:33,Mercedes-Benz Classe A Diesel Automatique 2020,355 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Non,5.0,Classe A,14499900.0,Mercedes-Benz,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 14:40:38,Mercedes-Benz Classe GLE Coupé Hybride 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,classe_gle_coupe,249900.0,Mercedes-Benz,,Neuf,Importée neuve,5,5,9,,5,
+2024-03-25 14:40:41,Mercedes-Benz Classe E Diesel Automatique 1982,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,,5.0,Classe E,19499900.0,Mercedes-Benz,1982.0,Excellent,Dédouanée,8,5,8,-32.0,5,3.0999999999999996
+2024-03-25 14:40:46,BMW X1 116D,209 000 DH,Oujda,"Voitures d'occasion, à vendre",Autre secteur,,5.0,X1,16499900.0,BMW,2016.0,Neuf,Dédouanée,5,5,8,2.0,5,5.0
+2024-03-25 14:40:52,Volkswagen Touareg Diesel Automatique 2014,138 000 DH,Tanger,"Voitures d'occasion, à vendre",Centre ville,Oui,5.0,Touareg,18499900.0,Volkswagen,2014.0,Excellent,,8,5,5,0.0,5,6.0
+2024-03-25 14:40:58,Porsche Cayenne Diesel 2015,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Centre ville,Non,5.0,Cayenne,10499900.0,Porsche,2015.0,Excellent,,8,5,5,1.0,5,6.1
+2024-03-25 14:41:02,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,GOLF 7,9749900.0,Volkswagen,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 14:41:07,Jeep Grand Cherokee Diesel Automatique 2017,190 000 DH,Agadir,"Voitures d'occasion, à vendre",Agadir Oufella,Non,5.0,Grand Cherokee,12499900.0,Jeep,2017.0,Très bon,,7,5,5,3.0,5,5.8
+2024-03-25 14:41:12,Mercedes-Benz Classe C 220d 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Classe C,249900.0,Mercedes-Benz,2024.0,Neuf,,5,5,5,10.0,5,5.5
+2024-03-25 14:41:16,audi rs3 facelift,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,RS3,7249900.0,Audi,,Excellent,Importée neuve,8,5,9,,5,
+2024-03-25 14:41:20,Mercedes-Benz Classe GLC Coupé Diesel 2024,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,CLASSE GLC COUPE,249900.0,Mercedes-Benz,2024.0,Neuf,,5,5,5,10.0,5,5.5
+2024-03-25 14:41:25,très belle c5 aircross,215 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Oui,,C5 Aircross,7749900.0,Citroen,2020.0,Très bon,WW au Maroc,7,5,10,6.0,5,6.6
+2024-03-25 14:41:30,Hyundai Tucson Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,,5249900.0,Hyundai,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-25 14:41:34,Volkswagen Caddy Diesel Automatique 2021 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,,5.0,Caddy,4749900.0,Volkswagen,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 14:41:39,Audi RSQ3 Essence Automatique 2022 à Fès,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Route Ain Chkaf,,5.0,RSQ3,3249900.0,Audi,2022.0,Neuf,Importée neuve,5,5,9,8.0,5,5.7
+2024-03-25 14:41:43,Peugeot 406 HDi 8ch didwani,PRIX NON SPÉCIFIÉ,Agadir,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,406,11499900.0,Peugeot,,Excellent,Dédouanée,8,5,8,,5,
+2024-03-25 14:41:47,Porsche PANAMERA 4S - V8 ESSENCE - 60.000 KM,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Yacoub El Mansour,Non,5.0,Panamera,6249900.0,,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
+2024-03-25 14:41:53,Hyundai i 20 Diesel Manuelle 2013 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,i 20,14499900.0,Hyundai,2013.0,Très bon,WW au Maroc,7,5,10,-1.0,5,5.9
+2024-03-25 18:08:59,Toyota Hilux Diesel Manuelle 2014 à Dakhla,230 000 DH,Dakhla,"Voitures d'occasion, à vendre",Toute la ville,Non,3.0,,2249990.0,Toyota,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
+2024-03-25 18:09:04,Volkswagen Golf 7 Diesel Automatique 2018,180 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,,GOLF 7,724990.0,Volkswagen,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 18:09:09,Audi A6 Diesel Automatique 2017 à Casablanca,230 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,3.0,A6,1749990.0,Audi,2017.0,Excellent,,8,5,5,3.0,5,6.3
 2024-03-25 18:09:13,Mini Cooper,285 000 DH,Marrakech,"Voitures d'occasion, à vendre",Agdal,Oui,3.0,cooper,,mini,2023.0,Neuf,WW au Maroc,5,5,10,9.0,5,5.9
-2024-03-25 18:09:18,Fiat 500X Essence auto 1er main full option,220 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,500X,12499.0,Fiat,2023.0,Neuf,,5,9,5,9.0,5,6.2
-2024-03-25 18:09:23,nissan,98 000 DH,Guercif,"Voitures d'occasion, à vendre",Toute la ville,Non,5.0,Qashqai,274999.0,Nissan,,Très bon,Importée neuve,7,5,9,,5,
-2024-03-25 18:09:26,Audi RS3 0km full option,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Malabata,Oui,5.0,RS3,2499.0,Audi,2024.0,Neuf,,5,9,5,10.0,5,6.3
-2024-03-25 18:09:33,Jeep Cherokee Diesel Automatique 2016 à Casablanca,185 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,,Cherokee,124999.0,Jeep,2016.0,Très bon,WW au Maroc,7,7,10,2.0,5,6.6000000000000005
-2024-03-25 18:09:41,Mercedes ml reprise ok,198 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,CLASSE ML,124999.0,Mercedes-Benz,2014.0,,WW au Maroc,5,7,10,0.0,5,5.4
-2024-03-25 18:09:48,Volvo S60 Bon état,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,S60,144999.0,Volvo,2017.0,Excellent,,8,7,5,3.0,5,6.7
+2024-03-25 18:09:18,Fiat 500X Essence auto 1er main full option,220 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,500X,124990.0,Fiat,2023.0,Neuf,,5,7,5,9.0,5,5.800000000000001
+2024-03-25 18:09:23,nissan,98 000 DH,Guercif,"Voitures d'occasion, à vendre",Toute la ville,Non,5.0,Qashqai,2749990.0,Nissan,,Très bon,Importée neuve,7,5,9,,5,
+2024-03-25 18:09:26,Audi RS3 0km full option,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Malabata,Oui,5.0,RS3,24990.0,Audi,2024.0,Neuf,,5,9,5,10.0,5,6.3
+2024-03-25 18:09:33,Jeep Cherokee Diesel Automatique 2016 à Casablanca,185 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,,Cherokee,1249990.0,Jeep,2016.0,Très bon,WW au Maroc,7,5,10,2.0,5,6.2
+2024-03-25 18:09:41,Mercedes ml reprise ok,198 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,CLASSE ML,1249990.0,Mercedes-Benz,2014.0,,WW au Maroc,5,5,10,0.0,5,5.0
+2024-03-25 18:09:48,Volvo S60 Bon état,180 000 DH,Casablanca,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,S60,1449990.0,Volvo,2017.0,Excellent,,8,5,5,3.0,5,6.3
 2024-03-25 18:09:56,Jeep Renegade Diesel Automatique 2022 à Marrakech,220 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Renegade,,Jeep,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
-2024-03-25 18:10:01,Land Rover Range Rover Sport Diesel Automatique,155 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Range Rover Sport,194999.0,Land Rover,2013.0,Excellent,Importée neuve,8,5,9,-1.0,5,6.300000000000001
-2024-03-25 18:10:05,Dacia Duster Diesel Manuelle 2015 à Marrakech,118 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Duster,194999.0,Dacia,2015.0,Excellent,,8,5,5,1.0,5,6.1
-2024-03-25 18:10:09,BMW X1 Diesel Automatique 2017 à Casablanca,215 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,X1,194999.0,BMW,2017.0,,,5,5,5,3.0,5,4.8
-2024-03-25 18:10:13,Volkswagen Tiguan Diesel 2014 dédouanée 2023,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,Tiguan,124999.0,Volkswagen,2014.0,Excellent,,8,7,5,0.0,5,6.4
-2024-03-25 18:10:17,Ford Kuga Diesel Manuelle 2017 à Safi,PRIX NON SPÉCIFIÉ,Safi,"Voitures d'occasion, à vendre",Autre secteur,Non,,Kuga,134999.0,Ford,2017.0,Neuf,WW au Maroc,5,7,10,3.0,5,5.7
-2024-03-25 18:10:24,Polo gti 2023,370 000 DH,Tanger,"Voitures d'occasion, à vendre",Centre ville,Oui,3.0,Polo,12499.0,Volkswagen,2023.0,Excellent,,8,9,5,9.0,5,7.7
-2024-03-25 18:10:32,Jeep Renegade Diesel Automatique 2021 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Guéliz,,5.0,Renegade,22499.0,Jeep,2021.0,Neuf,WW au Maroc,5,9,10,7.0,5,6.5
-2024-03-25 18:10:38,Jeep Renegade Diesel Automatique 2022 à Marrakech,220 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,,Renegade,62499.0,Jeep,2022.0,Neuf,WW au Maroc,5,8,10,8.0,5,6.3999999999999995
-2024-03-25 18:10:46,Renault Clio Diesel Manuelle 2021 à Fès,119 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Clio,82499.0,Renault,2021.0,Très bon,,7,8,5,7.0,5,6.8
-2024-03-25 18:10:53,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bournazil,Non,5.0,,194999.0,Mercedes-Benz,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
-2024-03-25 18:11:01,Creta première main tt option,165 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,,5.0,CRETA,144999.0,Hyundai,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
+2024-03-25 18:10:01,Land Rover Range Rover Sport Diesel Automatique,155 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Range Rover Sport,1949990.0,Land Rover,2013.0,Excellent,Importée neuve,8,5,9,-1.0,5,6.300000000000001
+2024-03-25 18:10:05,Dacia Duster Diesel Manuelle 2015 à Marrakech,118 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,5.0,Duster,1949990.0,Dacia,2015.0,Excellent,,8,5,5,1.0,5,6.1
+2024-03-25 18:10:09,BMW X1 Diesel Automatique 2017 à Casablanca,215 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,,,X1,1949990.0,BMW,2017.0,,,5,5,5,3.0,5,4.8
+2024-03-25 18:10:13,Volkswagen Tiguan Diesel 2014 dédouanée 2023,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,Tiguan,1249990.0,Volkswagen,2014.0,Excellent,,8,5,5,0.0,5,6.0
+2024-03-25 18:10:17,Ford Kuga Diesel Manuelle 2017 à Safi,PRIX NON SPÉCIFIÉ,Safi,"Voitures d'occasion, à vendre",Autre secteur,Non,,Kuga,1349990.0,Ford,2017.0,Neuf,WW au Maroc,5,5,10,3.0,5,5.3
+2024-03-25 18:10:24,Polo gti 2023,370 000 DH,Tanger,"Voitures d'occasion, à vendre",Centre ville,Oui,3.0,Polo,124990.0,Volkswagen,2023.0,Excellent,,8,7,5,9.0,5,7.300000000000001
+2024-03-25 18:10:32,Jeep Renegade Diesel Automatique 2021 à Marrakech,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Guéliz,,5.0,Renegade,224990.0,Jeep,2021.0,Neuf,WW au Maroc,5,5,10,7.0,5,5.7
+2024-03-25 18:10:38,Jeep Renegade Diesel Automatique 2022 à Marrakech,220 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Non,,Renegade,624990.0,Jeep,2022.0,Neuf,WW au Maroc,5,5,10,8.0,5,5.8
+2024-03-25 18:10:46,Renault Clio Diesel Manuelle 2021 à Fès,119 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Clio,824990.0,Renault,2021.0,Très bon,,7,5,5,7.0,5,6.2
+2024-03-25 18:10:53,Mercedes-Benz Classe E Diesel Automatique 2010,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bournazil,Non,5.0,,1949990.0,Mercedes-Benz,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
+2024-03-25 18:11:01,Creta première main tt option,165 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,,5.0,CRETA,1449990.0,Hyundai,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
 2024-03-25 18:11:09,Porsche Macan Essence Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Haut Agdal,Oui,5.0,Macan,,Porsche,2019.0,Neuf,Importée neuve,5,5,9,5.0,5,5.4
-2024-03-25 18:11:17,BMW Série 1 Diesel Manuelle 2016 à Casablanca,225 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Serie 1,72499.0,BMW,,Très bon,WW au Maroc,7,8,10,,5,
-2024-03-25 18:11:26,kia sorento Diesel,93 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Sorento,184999.0,Kia,2012.0,,WW au Maroc,5,5,10,-2.0,5,4.8
-2024-03-25 18:11:33,Fiat 500 C Essence Automatique 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,3.0,500C,62499.0,Fiat,,Très bon,WW au Maroc,7,8,10,,5,
+2024-03-25 18:11:17,BMW Série 1 Diesel Manuelle 2016 à Casablanca,225 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Serie 1,724990.0,BMW,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 18:11:26,kia sorento Diesel,93 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Sorento,1849990.0,Kia,2012.0,,WW au Maroc,5,5,10,-2.0,5,4.8
+2024-03-25 18:11:33,Fiat 500 C Essence Automatique 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,3.0,500C,624990.0,Fiat,,Très bon,WW au Maroc,7,5,10,,5,
 2024-03-25 18:11:40,BMW X3 Diesel Automatique 2015 à Casablanca,225 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,X3,,BMW,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
-2024-03-25 18:11:48,Hyundai Tucson Diesel Automatique 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,,72499.0,Hyundai,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
-2024-03-25 18:11:55,Renault Clio Diesel Manuelle 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Clio,82499.0,Renault,2019.0,Neuf,,5,8,5,5.0,5,5.6
+2024-03-25 18:11:48,Hyundai Tucson Diesel Automatique 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,,724990.0,Hyundai,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 18:11:55,Renault Clio Diesel Manuelle 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Clio,824990.0,Renault,2019.0,Neuf,,5,5,5,5.0,5,5.0
 2024-03-25 18:12:04,BMW Série 3 Diesel Manuelle 2013 à Casablanca,175 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Serie 3,,BMW,2013.0,Excellent,WW au Maroc,8,5,10,-1.0,5,6.4
-2024-03-25 18:12:11,Vw tiguan automatique première main 2021,320 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Tiguan,97499.0,,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
-2024-03-25 18:12:19,Ford Transit L4H3,255 000 DH,Tétouan,"Voitures d'occasion, à vendre",Safir,,3.0,Transit,42499.0,Ford,2022.0,Très bon,WW au Maroc,7,9,10,8.0,5,7.6
+2024-03-25 18:12:11,Vw tiguan automatique première main 2021,320 000 DH,Marrakech,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Tiguan,974990.0,,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 18:12:19,Ford Transit L4H3,255 000 DH,Tétouan,"Voitures d'occasion, à vendre",Safir,,3.0,Transit,424990.0,Ford,2022.0,Très bon,WW au Maroc,7,5,10,8.0,5,6.8
 2024-03-25 18:12:28,BMW Série 4 Gran Coupé Diesel Manuelle 2015,230 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,Serie 4 gran coupé,,BMW,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
-2024-03-25 18:12:35,Mini Cooper Essence Automatique 2018 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,3.0,cooper,42499.0,mini,2018.0,,WW au Maroc,5,9,10,4.0,5,6.2
-2024-03-25 18:12:42,Ford Focus,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,,194999.0,Ford,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
-2024-03-25 18:13:14,BMW Série 4 Gran Coupé Diesel Manuelle 2015,230 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,,154999.0,BMW,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
-2024-03-25 18:13:18,Mini Cooper Essence Automatique 2018 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,3.0,cooper,42499.0,mini,2018.0,,WW au Maroc,5,9,10,4.0,5,6.2
-2024-03-25 18:13:23,Ford Focus,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Focus,194999.0,Ford,,Excellent,WW au Maroc,8,5,10,,5,
-2024-03-25 18:13:27,BMW Série 2 Coupé Diesel Automatique 2015,185 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,,3.0,Serie 2 coupé,174999.0,BMW,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
-2024-03-25 18:13:31,Renault Megane 3 Diesel Manuelle 2015 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,5.0,Megane 3,104999.0,Renault,2015.0,Excellent,WW au Maroc,8,7,10,1.0,5,7.0
-2024-03-25 18:13:36,Mercedes-Benz 220 Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Guéliz,Oui,5.0,,114999.0,Mercedes-Benz,2016.0,Excellent,Dédouanée,8,7,8,2.0,5,6.9
-2024-03-25 18:13:41,Citroen C3 Diesel Manuelle 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,C3,92499.0,Citroen,,Excellent,WW au Maroc,8,8,10,,5,
-2024-03-25 18:13:45,Renault Express 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,,5.0,EXPRESS,67499.0,Renault,2021.0,Très bon,WW au Maroc,7,8,10,7.0,5,7.3
-2024-03-25 18:13:49,BMW X4 Diesel Automatique 2019 à Salé,560 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,,X4,134999.0,BMW,2019.0,Excellent,Importée neuve,8,7,9,5.0,5,7.300000000000001
-2024-03-25 18:13:53,Audi Q5 Diesel Automatique 2019 à Rabat,550 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Q5,92499.0,Audi,2019.0,,Dédouanée,5,8,8,5.0,5,5.8999999999999995
-2024-03-25 18:13:56,Mercedes-Benz Classe C,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Classe C,7499.0,Mercedes-Benz,2024.0,Neuf,,5,9,5,10.0,5,6.3
-2024-03-25 18:14:00,Fiat 500 Essence Automatique 2020 à Casablanca,130 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Non,,500,77499.0,Fiat,2020.0,Excellent,WW au Maroc,8,8,10,6.0,5,7.699999999999999
-2024-03-25 18:14:04,Mercedes-Benz Classe CLS Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,,5.0,Classe CLS,97499.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,8,9,4.0,5,7.4
-2024-03-25 18:14:09,Renault Megane Sedan Diesel Automatique 2019,159 000 DH,Casablanca,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,,72499.0,Renault,2019.0,Très bon,WW au Maroc,7,8,10,5.0,5,7.1
-2024-03-25 18:14:13,alfa Romeo Giulietta full,165 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Giulietta,2499.0,Alfa Romeo,2019.0,Excellent,WW au Maroc,8,9,10,5.0,5,7.8
+2024-03-25 18:12:35,Mini Cooper Essence Automatique 2018 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,3.0,cooper,424990.0,mini,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 18:12:42,Ford Focus,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,,1949990.0,Ford,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
+2024-03-25 18:13:14,BMW Série 4 Gran Coupé Diesel Manuelle 2015,230 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,,1549990.0,BMW,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-25 18:13:18,Mini Cooper Essence Automatique 2018 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,3.0,cooper,424990.0,mini,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 18:13:23,Ford Focus,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Focus,1949990.0,Ford,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:13:27,BMW Série 2 Coupé Diesel Automatique 2015,185 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,,3.0,Serie 2 coupé,1749990.0,BMW,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 18:13:31,Renault Megane 3 Diesel Manuelle 2015 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,5.0,Megane 3,1049990.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 18:13:36,Mercedes-Benz 220 Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Guéliz,Oui,5.0,,1149990.0,Mercedes-Benz,2016.0,Excellent,Dédouanée,8,5,8,2.0,5,6.5
+2024-03-25 18:13:41,Citroen C3 Diesel Manuelle 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,C3,924990.0,Citroen,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:13:45,Renault Express 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,,5.0,EXPRESS,674990.0,Renault,2021.0,Très bon,WW au Maroc,7,5,10,7.0,5,6.7
+2024-03-25 18:13:49,BMW X4 Diesel Automatique 2019 à Salé,560 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,,X4,1349990.0,BMW,2019.0,Excellent,Importée neuve,8,5,9,5.0,5,6.9
+2024-03-25 18:13:53,Audi Q5 Diesel Automatique 2019 à Rabat,550 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Q5,924990.0,Audi,2019.0,,Dédouanée,5,5,8,5.0,5,5.3
+2024-03-25 18:13:56,Mercedes-Benz Classe C,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Classe C,74990.0,Mercedes-Benz,2024.0,Neuf,,5,8,5,10.0,5,6.1
+2024-03-25 18:14:00,Fiat 500 Essence Automatique 2020 à Casablanca,130 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Non,,500,774990.0,Fiat,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
+2024-03-25 18:14:04,Mercedes-Benz Classe CLS Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,,5.0,Classe CLS,974990.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,5,9,4.0,5,6.800000000000001
+2024-03-25 18:14:09,Renault Megane Sedan Diesel Automatique 2019,159 000 DH,Casablanca,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,,724990.0,Renault,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 18:14:13,alfa Romeo Giulietta full,165 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Giulietta,24990.0,Alfa Romeo,2019.0,Excellent,WW au Maroc,8,9,10,5.0,5,7.8
 2024-03-25 18:14:18,BMW X4 PACK M,485 000 DH,Tétouan,"Voitures d'occasion, à vendre",Safir,Oui,5.0,X4,,BMW,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
-2024-03-25 18:14:22,Mercedes-Benz Classe E Diesel Automatique 2017,430 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,,134999.0,Mercedes-Benz,2017.0,Excellent,Importée neuve,8,7,9,3.0,5,7.1000000000000005
-2024-03-25 18:14:26,Volkswagen Touareg Diesel Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Touareg,104999.0,Volkswagen,2019.0,Neuf,WW au Maroc,5,7,10,5.0,5,5.9
-2024-03-25 18:14:31,golf4 1998,33 000 DH,Marrakech,"Voitures d'occasion, à vendre",Sidi Youssef Ben Ali,,5.0,GOLF 4,134999.0,Volkswagen,1998.0,,,5,7,5,-16.0,5,3.3000000000000003
-2024-03-25 18:14:34,Volkswagen Passat Diesel Manuelle,154 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,,5.0,Passat,77499.0,Volkswagen,2012.0,Excellent,WW au Maroc,8,8,10,-2.0,5,6.8999999999999995
-2024-03-25 18:14:39,Porsche Macan 2021 34000 km,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,Oui,5.0,,32499.0,Porsche,2021.0,Neuf,WW au Maroc,5,9,10,7.0,5,6.5
-2024-03-25 18:14:43,Toyota Yaris Diesel Manuelle 2018 à Rabat,118 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Yaris,104999.0,Toyota,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 18:14:48,Audi RSQ3 2024 Full options,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,RSQ3,2499.0,Audi,2023.0,Neuf,,5,9,5,9.0,5,6.2
-2024-03-25 18:14:53,Mercedes Classe C 220 exclusive,295 000 DH,Tétouan,"Voitures d'occasion, à vendre",Safir,,5.0,Classe C,104999.0,Mercedes-Benz,2017.0,Très bon,Dédouanée,7,7,8,3.0,5,6.5
+2024-03-25 18:14:22,Mercedes-Benz Classe E Diesel Automatique 2017,430 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,,1349990.0,Mercedes-Benz,2017.0,Excellent,Importée neuve,8,5,9,3.0,5,6.7
+2024-03-25 18:14:26,Volkswagen Touareg Diesel Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Touareg,1049990.0,Volkswagen,2019.0,Neuf,WW au Maroc,5,5,10,5.0,5,5.5
+2024-03-25 18:14:31,golf4 1998,33 000 DH,Marrakech,"Voitures d'occasion, à vendre",Sidi Youssef Ben Ali,,5.0,GOLF 4,1349990.0,Volkswagen,1998.0,,,5,5,5,-16.0,5,2.9
+2024-03-25 18:14:34,Volkswagen Passat Diesel Manuelle,154 000 DH,Rabat,"Voitures d'occasion, à vendre",Guich Oudaya,,5.0,Passat,774990.0,Volkswagen,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
+2024-03-25 18:14:39,Porsche Macan 2021 34000 km,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,Oui,5.0,,324990.0,Porsche,2021.0,Neuf,WW au Maroc,5,5,10,7.0,5,5.7
+2024-03-25 18:14:43,Toyota Yaris Diesel Manuelle 2018 à Rabat,118 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,Yaris,1049990.0,Toyota,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 18:14:48,Audi RSQ3 2024 Full options,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,RSQ3,24990.0,Audi,2023.0,Neuf,,5,9,5,9.0,5,6.2
+2024-03-25 18:14:53,Mercedes Classe C 220 exclusive,295 000 DH,Tétouan,"Voitures d'occasion, à vendre",Safir,,5.0,Classe C,1049990.0,Mercedes-Benz,2017.0,Très bon,Dédouanée,7,5,8,3.0,5,6.1
 2024-03-25 18:14:57,Audi Q8 Sline exclusive 2024 3000 km,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Maarif,Oui,5.0,Q8,,Audi,2024.0,Neuf,WW au Maroc,5,5,10,10.0,5,6.0
-2024-03-25 18:15:02,Alfa Romeo 147 Diesel,65 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,,174999.0,Alfa Romeo,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
-2024-03-25 18:15:06,Dacia dokker,87 000 DH,Marrakech,"Voitures d'occasion, à vendre",Agdal,Non,5.0,Dokker Van,224999.0,Dacia,2017.0,,WW au Maroc,5,5,10,3.0,5,5.3
-2024-03-25 18:15:11,Renault Clio Diesel Manuelle 2019 à Casablanca,109 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Oui,5.0,Clio,104999.0,Renault,,Excellent,WW au Maroc,8,7,10,,5,
-2024-03-25 18:15:14,Mercedes-Benz Classe GLC Diesel Automatique 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Classe GLC,164999.0,Mercedes-Benz,2017.0,,WW au Maroc,5,5,10,3.0,5,5.3
-2024-03-25 18:15:20,Porsche Macan Diesel Automatique 2016 à Tanger,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Administratif,Oui,,Macan,32499.0,Porsche,2016.0,Excellent,Dédouanée,8,9,8,2.0,5,7.3
-2024-03-25 18:15:24,kia Sportage,72 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,,Sportage,194999.0,Kia,2009.0,Très bon,WW au Maroc,7,5,10,-5.0,5,5.5
-2024-03-25 18:15:28,toyota vigo double cabine,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Hilux,224999.0,Toyota,2013.0,Très bon,WW au Maroc,7,5,10,-1.0,5,5.9
-2024-03-25 18:15:33,Dacia Dokker Stepway 2018 à Casablanca,145 000 DH,الدار البيضاء,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Dokker,114999.0,Dacia,,Très bon,WW au Maroc,7,7,10,,5,
-2024-03-25 18:15:39,Hyundai i10,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,i 10,194999.0,Hyundai,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
-2024-03-25 18:15:45,Renault Clio Diesel Automatique 2018 à Casablanca,118 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Clio,104999.0,Renault,2018.0,Très bon,,7,7,5,4.0,5,6.300000000000001
-2024-03-25 18:16:04,kia Sportage,72 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,,5.0,Sportage,194999.0,Kia,2009.0,Très bon,WW au Maroc,7,5,10,-5.0,5,5.5
-2024-03-25 18:16:08,toyota vigo double cabine,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,Hilux,224999.0,Toyota,2013.0,,WW au Maroc,5,5,10,-1.0,5,4.9
-2024-03-25 18:16:12,Dacia Dokker Stepway 2018 à Casablanca,145 000 DH,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Dokker,114999.0,Dacia,2018.0,,WW au Maroc,5,7,10,4.0,5,5.800000000000001
-2024-03-25 18:16:16,Hyundai i10,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,i 10,194999.0,Hyundai,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
-2024-03-25 18:16:21,Renault Clio Diesel Automatique 2018 à Casablanca,118 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,,104999.0,Renault,2018.0,Très bon,WW au Maroc,7,7,10,4.0,5,6.800000000000001
-2024-03-25 18:16:25,Volkswagen Golf 4 Diesel 2003 DD 2010,PRIX NON SPÉCIFIÉ,Settat,"Voitures d'occasion, à vendre",Hay Al Kamal,Non,5.0,GOLF 4,224999.0,Volkswagen,,Neuf,Dédouanée,5,5,8,,5,
-2024-03-25 18:16:30,Nissan Pathfinder Diesel Manuelle 2009 à Marrakech,95 000 DH,Marrakech,"Voitures d'occasion, à vendre",Massira,Non,5.0,Pathfinder,324999.0,Nissan,,Très bon,WW au Maroc,7,5,10,,5,
-2024-03-25 18:16:34,Hyundai i 40 Diesel Automatique 6cv,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Ahlane,Oui,5.0,i 40,194999.0,Hyundai,2014.0,,Dédouanée,5,5,8,0.0,5,4.8
-2024-03-25 18:16:39,Peugeot 208 Diesel tout option,105 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,208,104999.0,Peugeot,,Très bon,WW au Maroc,7,7,10,,5,
-2024-03-25 18:16:44,Audi A5 Diesel Manuelle 2018 à Casablanca,310 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,A5,104999.0,Audi,2018.0,Excellent,,8,7,5,4.0,5,6.800000000000001
-2024-03-25 18:16:48,Mercedes-Benz Classe E Coupé Diesel Automatique,445 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,classe_e_coupe,77499.0,Mercedes-Benz,,Excellent,WW au Maroc,8,8,10,,5,
-2024-03-25 18:16:54,Jaguar XE Diesel Automatique 2018 à Casablanca,235 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,XE,104999.0,Jaguar,,Excellent,WW au Maroc,8,7,10,,5,
-2024-03-25 18:16:58,Land Rover Range Rover Evoque Diesel Automatique,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Range Rover Evoque,82499.0,Land Rover,,Neuf,WW au Maroc,5,8,10,,5,
-2024-03-25 18:17:02,Alfa Romeo Giulietta Diesel Automatique 2014,109 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Giulietta,194999.0,Alfa Romeo,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
-2024-03-25 18:17:06,BMW Série 5 luxury 2019 à Rabat,350 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 5,104999.0,BMW,,Excellent,WW au Maroc,8,7,10,,5,
-2024-03-25 18:17:12,Audi A3 S-Line Diesel Automatique 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Non,5.0,A3,134999.0,Audi,2017.0,,Importée neuve,5,7,9,3.0,5,5.6000000000000005
-2024-03-25 18:17:16,Audi Q5 Sportback Diesel Automatique 2022 à Rabat,790 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,q5_sportback,12499.0,Audi,2022.0,Neuf,WW au Maroc,5,9,10,8.0,5,6.6
-2024-03-25 18:17:22,Peugeot 306 essence,33 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,306,174999.0,,1999.0,Très bon,WW au Maroc,7,5,10,-15.0,5,4.5
-2024-03-25 18:17:29,BMW X3 Diesel Automatique 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,X3,72499.0,BMW,,Excellent,WW au Maroc,8,8,10,,5,
-2024-03-25 18:17:36,Mercedes-Benz Classe GLE Coupé Essence 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,classe_gle_coupe,104999.0,Mercedes-Benz,2017.0,,Importée neuve,5,7,9,3.0,5,5.6000000000000005
-2024-03-25 18:17:44,Renault Megane 3 1.9l 2010 à Casablanca,87 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Megane 3,144999.0,Renault,,Très bon,WW au Maroc,7,7,10,,5,
-2024-03-25 18:17:52,Mercedes-Benz Classe C Coupé Diesel Automatique,458 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,CLASSE C COUPE,124999.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 18:18:01,Land Rover Range Rover Evoque Diesel Automatique,315 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Range Rover Evoque,124999.0,Land Rover,2016.0,Excellent,,8,7,5,2.0,5,6.6000000000000005
-2024-03-25 18:18:09,Maserati Ghibli Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,Ghibli,104999.0,Maserati,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
-2024-03-25 18:18:18,Chevrolet très bon Etat,45 000 DH,Mohammedia,"Voitures d'occasion, à vendre",El Kasbah,Oui,5.0,Spark,124999.0,Chevrolet,2007.0,Très bon,,7,7,5,-7.0,5,5.2
-2024-03-25 18:18:26,Mercedes-Benz Classe CLA Diesel Automatique 2020,480 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,,134999.0,Mercedes-Benz,2020.0,Excellent,WW au Maroc,8,7,10,6.0,5,7.5
-2024-03-25 18:18:34,BMW Série 118 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,,104999.0,BMW,2021.0,Excellent,WW au Maroc,8,7,10,7.0,5,7.6000000000000005
-2024-03-25 18:18:42,Dacia Duster Diesel Automatique 2021 à Agadir,PRIX NON SPÉCIFIÉ,Agadir,"Voitures d'occasion, à vendre",Hay Zaytoun,Oui,5.0,Duster,82499.0,Dacia,2021.0,,WW au Maroc,5,8,10,7.0,5,6.3
-2024-03-25 18:18:49,Touran 2018 diesel diwana 2023,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,,Touran,104999.0,Volkswagen,2018.0,Excellent,Dédouanée,8,7,8,4.0,5,7.1000000000000005
-2024-03-25 18:18:58,Toyota Land Cruiser Prado Diesel Manuelle 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Oulfa,Oui,5.0,land_cruiser_prado,104999.0,Toyota,2019.0,Excellent,,8,7,5,5.0,5,6.9
-2024-03-25 18:19:05,Renault Clio Diesel Manuelle 2019 à Rabat,109 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Clio,92499.0,Renault,2019.0,,WW au Maroc,5,8,10,5.0,5,6.1
-2024-03-25 18:19:12,Toyota Corolla Diesel Manuelle 2018 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,,97499.0,Toyota,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
-2024-03-25 18:19:21,Mercedes-Benz Classe E Diesel Automatique 2015,PRIX NON SPÉCIFIÉ,Oujda,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,Classe E,154999.0,,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
-2024-03-25 18:19:28,PORSCHE CAYENNE V8 TURBO 500 CHEVAUX AKRAPOVIC,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Mers Sultan,Non,5.0,Cayenne,184999.0,Porsche,2012.0,Très bon,,7,5,5,-2.0,5,5.3
-2024-03-25 18:19:35,Peugeot 301 Diesel Manuelle 2018 à Fès,98 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,301,97499.0,,2018.0,Très bon,WW au Maroc,7,8,10,4.0,5,7.0
-2024-03-25 20:50:32,Nissan Qashqai Diesel Manuelle 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Qashqai,92499.0,,2019.0,Excellent,WW au Maroc,8,8,10,5.0,5,7.6
-2024-03-25 20:50:37,BMW X3 Diesel Automatique 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,X3,144999.0,,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 20:50:41,Vente Ford Kuga Titanium 2018,250 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,Oui,,Kuga,67499.0,Ford,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
-2024-03-25 20:50:46,Citroën C6 Diesel 1 er main ✋,84 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,C6,194999.0,Citroen,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
-2024-03-25 20:50:52,Hyundai Tucson Diesel Automatique 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,,5.0,Tucson,87499.0,Hyundai,2020.0,Excellent,WW au Maroc,8,8,10,6.0,5,7.699999999999999
-2024-03-25 20:50:57,Renault clio 4,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,,82499.0,Renault,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
-2024-03-25 20:51:03,Peugeot 301 Diesel Manuelle 2017 à Safi,92 000 DH,Safi,"Voitures d'occasion, à vendre",Hay Essaâda,,5.0,301,114999.0,Peugeot,2017.0,Excellent,,8,7,5,3.0,5,6.7
-2024-03-25 20:51:07,Volkswagen Eos Diesel Manuelle 2006 à Rabat,83 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,3.0,EOS,144999.0,Volkswagen,2006.0,Très bon,Dédouanée,7,7,8,-8.0,5,5.4
-2024-03-25 20:51:12,KIA PICANTO (60000KM),PRIX NON SPÉCIFIÉ,Kénitra,"Voitures d'occasion, à vendre",Centre,,5.0,Picanto,62499.0,Kia,2020.0,Neuf,WW au Maroc,5,8,10,6.0,5,6.199999999999999
-2024-03-25 20:51:16,Hyundai Accent Diesel Automatique 2023,168 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Accent,22499.0,Hyundai,2023.0,Très bon,WW au Maroc,7,9,10,9.0,5,7.7
-2024-03-25 20:51:20,Mercedes-Benz 220 Diesel Automatique 2017,330 000 DH,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,5.0,220,194999.0,Mercedes-Benz,2017.0,Très bon,,7,5,5,3.0,5,5.8
-2024-03-25 20:51:25,Jeep Renegade Diesel Automatique 2021 à El Jadida,225 000 DH,El Jadida,"Voitures d'occasion, à vendre",Centre,,5.0,Renegade,104999.0,Jeep,2021.0,Excellent,WW au Maroc,8,7,10,7.0,5,7.6000000000000005
-2024-03-25 20:51:28,Renault Captur Essence Automatique 2021,153 500 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,,Captur,92499.0,Renault,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
-2024-03-25 20:51:33,Mercedes-Benz Classe C Diesel Automatique 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,Classe C,2499.0,Mercedes-Benz,2023.0,,Importée neuve,5,9,9,9.0,5,6.6000000000000005
-2024-03-25 20:51:38,Hyundai Tucson Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tucson,92499.0,,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
-2024-03-25 20:51:41,Renault Clio Diesel Manuelle 2021 à Casablanca,123 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Clio,97499.0,Renault,,Très bon,WW au Maroc,7,8,10,,5,
-2024-03-25 20:51:45,clio 5 entons,155 000 DH,Fès,"Voitures d'occasion, à vendre",Ain kadous,,5.0,Clio,62499.0,Renault,2020.0,Très bon,WW au Maroc,7,8,10,6.0,5,7.199999999999999
-2024-03-25 20:51:49,Bentley Bentayga Diesel Automatique 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Bentayga,104999.0,Bentley,2017.0,,Importée neuve,5,7,9,3.0,5,5.6000000000000005
-2024-03-25 20:51:52,Dacia Dokker Diesel Manuelle 2019 à Casablanca,94 900 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Dokker,134999.0,,2019.0,Très bon,WW au Maroc,7,7,10,5.0,5,6.9
-2024-03-25 20:51:56,range rover sport autobiographie,175 000 DH,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,5.0,Range Rover Sport,134999.0,Land Rover,,Bon,Importée neuve,5,7,9,,5,
-2024-03-25 20:52:02,Mercedes-Benz Classe GLE Coupé Diesel 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,classe_gle_coupe,7499.0,Mercedes-Benz,,Excellent,Importée neuve,8,9,9,,5,
-2024-03-25 20:52:06,Mercedes Sprinter,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,,Sprinter,2499.0,Mercedes-Benz,2017.0,Très bon,WW au Maroc,7,9,10,3.0,5,7.1
-2024-03-25 20:52:10,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,,GOLF 7,124999.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 20:52:14,Mercedes-Benz Classe E Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,Oui,5.0,Classe E,114999.0,Mercedes-Benz,2018.0,Excellent,,8,7,5,4.0,5,6.800000000000001
-2024-03-25 20:52:19,Audi Q5 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Q5,52499.0,Audi,2021.0,Excellent,Dédouanée,8,8,8,7.0,5,7.6
-2024-03-25 20:52:23,Renault Clio Diesel Manuelle 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Clio,87499.0,Renault,2020.0,Excellent,,8,8,5,6.0,5,7.199999999999999
-2024-03-25 20:52:27,Alfa Romeo Stelvio Diesel Automatique 2018,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Stelvio,104999.0,Alfa Romeo,2018.0,Très bon,,7,7,5,4.0,5,6.300000000000001
-2024-03-25 20:52:32,Ford ranger 2.2 limited 6 speed auto,180 000 DH,Temara,"Voitures d'occasion, à vendre",Harhoura,Non,,Ranger,104999.0,Ford,2015.0,Très bon,WW au Maroc,7,7,10,1.0,5,6.5
-2024-03-25 20:52:36,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,5.0,Megane 3,134999.0,Renault,,Excellent,WW au Maroc,8,7,10,,5,
+2024-03-25 18:15:02,Alfa Romeo 147 Diesel,65 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,,1749990.0,Alfa Romeo,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
+2024-03-25 18:15:06,Dacia dokker,87 000 DH,Marrakech,"Voitures d'occasion, à vendre",Agdal,Non,5.0,Dokker Van,2249990.0,Dacia,2017.0,,WW au Maroc,5,5,10,3.0,5,5.3
+2024-03-25 18:15:11,Renault Clio Diesel Manuelle 2019 à Casablanca,109 000 DH,Casablanca,"Voitures d'occasion, à vendre",Belvédère,Oui,5.0,Clio,1049990.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:15:14,Mercedes-Benz Classe GLC Diesel Automatique 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Non,5.0,Classe GLC,1649990.0,Mercedes-Benz,2017.0,,WW au Maroc,5,5,10,3.0,5,5.3
+2024-03-25 18:15:20,Porsche Macan Diesel Automatique 2016 à Tanger,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Administratif,Oui,,Macan,324990.0,Porsche,2016.0,Excellent,Dédouanée,8,5,8,2.0,5,6.5
+2024-03-25 18:15:24,kia Sportage,72 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,,Sportage,1949990.0,Kia,2009.0,Très bon,WW au Maroc,7,5,10,-5.0,5,5.5
+2024-03-25 18:15:28,toyota vigo double cabine,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Hilux,2249990.0,Toyota,2013.0,Très bon,WW au Maroc,7,5,10,-1.0,5,5.9
+2024-03-25 18:15:33,Dacia Dokker Stepway 2018 à Casablanca,145 000 DH,الدار البيضاء,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Dokker,1149990.0,Dacia,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 18:15:39,Hyundai i10,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,i 10,1949990.0,Hyundai,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
+2024-03-25 18:15:45,Renault Clio Diesel Automatique 2018 à Casablanca,118 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Clio,1049990.0,Renault,2018.0,Très bon,,7,5,5,4.0,5,5.9
+2024-03-25 18:16:04,kia Sportage,72 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,,5.0,Sportage,1949990.0,Kia,2009.0,Très bon,WW au Maroc,7,5,10,-5.0,5,5.5
+2024-03-25 18:16:08,toyota vigo double cabine,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,Hilux,2249990.0,Toyota,2013.0,,WW au Maroc,5,5,10,-1.0,5,4.9
+2024-03-25 18:16:12,Dacia Dokker Stepway 2018 à Casablanca,145 000 DH,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Dokker,1149990.0,Dacia,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 18:16:16,Hyundai i10,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,5.0,i 10,1949990.0,Hyundai,2009.0,Excellent,WW au Maroc,8,5,10,-5.0,5,6.0
+2024-03-25 18:16:21,Renault Clio Diesel Automatique 2018 à Casablanca,118 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,,1049990.0,Renault,2018.0,Très bon,WW au Maroc,7,5,10,4.0,5,6.4
+2024-03-25 18:16:25,Volkswagen Golf 4 Diesel 2003 DD 2010,PRIX NON SPÉCIFIÉ,Settat,"Voitures d'occasion, à vendre",Hay Al Kamal,Non,5.0,GOLF 4,2249990.0,Volkswagen,,Neuf,Dédouanée,5,5,8,,5,
+2024-03-25 18:16:30,Nissan Pathfinder Diesel Manuelle 2009 à Marrakech,95 000 DH,Marrakech,"Voitures d'occasion, à vendre",Massira,Non,5.0,Pathfinder,3249990.0,Nissan,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 18:16:34,Hyundai i 40 Diesel Automatique 6cv,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Ahlane,Oui,5.0,i 40,1949990.0,Hyundai,2014.0,,Dédouanée,5,5,8,0.0,5,4.8
+2024-03-25 18:16:39,Peugeot 208 Diesel tout option,105 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,208,1049990.0,Peugeot,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 18:16:44,Audi A5 Diesel Manuelle 2018 à Casablanca,310 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,A5,1049990.0,Audi,2018.0,Excellent,,8,5,5,4.0,5,6.4
+2024-03-25 18:16:48,Mercedes-Benz Classe E Coupé Diesel Automatique,445 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,classe_e_coupe,774990.0,Mercedes-Benz,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:16:54,Jaguar XE Diesel Automatique 2018 à Casablanca,235 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,XE,1049990.0,Jaguar,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:16:58,Land Rover Range Rover Evoque Diesel Automatique,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Range Rover Evoque,824990.0,Land Rover,,Neuf,WW au Maroc,5,5,10,,5,
+2024-03-25 18:17:02,Alfa Romeo Giulietta Diesel Automatique 2014,109 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Giulietta,1949990.0,Alfa Romeo,2014.0,Très bon,WW au Maroc,7,5,10,0.0,5,6.0
+2024-03-25 18:17:06,BMW Série 5 luxury 2019 à Rabat,350 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 5,1049990.0,BMW,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:17:12,Audi A3 S-Line Diesel Automatique 2017 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Non,5.0,A3,1349990.0,Audi,2017.0,,Importée neuve,5,5,9,3.0,5,5.2
+2024-03-25 18:17:16,Audi Q5 Sportback Diesel Automatique 2022 à Rabat,790 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,q5_sportback,124990.0,Audi,2022.0,Neuf,WW au Maroc,5,7,10,8.0,5,6.2
+2024-03-25 18:17:22,Peugeot 306 essence,33 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,306,1749990.0,,1999.0,Très bon,WW au Maroc,7,5,10,-15.0,5,4.5
+2024-03-25 18:17:29,BMW X3 Diesel Automatique 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,X3,724990.0,BMW,,Excellent,WW au Maroc,8,5,10,,5,
+2024-03-25 18:17:36,Mercedes-Benz Classe GLE Coupé Essence 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,classe_gle_coupe,1049990.0,Mercedes-Benz,2017.0,,Importée neuve,5,5,9,3.0,5,5.2
+2024-03-25 18:17:44,Renault Megane 3 1.9l 2010 à Casablanca,87 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Megane 3,1449990.0,Renault,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 18:17:52,Mercedes-Benz Classe C Coupé Diesel Automatique,458 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,,CLASSE C COUPE,1249990.0,Mercedes-Benz,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 18:18:01,Land Rover Range Rover Evoque Diesel Automatique,315 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Range Rover Evoque,1249990.0,Land Rover,2016.0,Excellent,,8,5,5,2.0,5,6.2
+2024-03-25 18:18:09,Maserati Ghibli Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,,Ghibli,1049990.0,Maserati,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
+2024-03-25 18:18:18,Chevrolet très bon Etat,45 000 DH,Mohammedia,"Voitures d'occasion, à vendre",El Kasbah,Oui,5.0,Spark,1249990.0,Chevrolet,2007.0,Très bon,,7,5,5,-7.0,5,4.8
+2024-03-25 18:18:26,Mercedes-Benz Classe CLA Diesel Automatique 2020,480 000 DH,Salé,"Voitures d'occasion, à vendre",Sala El Jadida,Oui,5.0,,1349990.0,Mercedes-Benz,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
+2024-03-25 18:18:34,BMW Série 118 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,,1049990.0,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 18:18:42,Dacia Duster Diesel Automatique 2021 à Agadir,PRIX NON SPÉCIFIÉ,Agadir,"Voitures d'occasion, à vendre",Hay Zaytoun,Oui,5.0,Duster,824990.0,Dacia,2021.0,,WW au Maroc,5,5,10,7.0,5,5.7
+2024-03-25 18:18:49,Touran 2018 diesel diwana 2023,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,,Touran,1049990.0,Volkswagen,2018.0,Excellent,Dédouanée,8,5,8,4.0,5,6.7
+2024-03-25 18:18:58,Toyota Land Cruiser Prado Diesel Manuelle 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Oulfa,Oui,5.0,land_cruiser_prado,1049990.0,Toyota,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 18:19:05,Renault Clio Diesel Manuelle 2019 à Rabat,109 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Clio,924990.0,Renault,2019.0,,WW au Maroc,5,5,10,5.0,5,5.5
+2024-03-25 18:19:12,Toyota Corolla Diesel Manuelle 2018 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,,974990.0,Toyota,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 18:19:21,Mercedes-Benz Classe E Diesel Automatique 2015,PRIX NON SPÉCIFIÉ,Oujda,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,Classe E,1549990.0,,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 18:19:28,PORSCHE CAYENNE V8 TURBO 500 CHEVAUX AKRAPOVIC,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Mers Sultan,Non,5.0,Cayenne,1849990.0,Porsche,2012.0,Très bon,,7,5,5,-2.0,5,5.3
+2024-03-25 18:19:35,Peugeot 301 Diesel Manuelle 2018 à Fès,98 000 DH,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,301,974990.0,,2018.0,Très bon,WW au Maroc,7,5,10,4.0,5,6.4
+2024-03-25 20:50:32,Nissan Qashqai Diesel Manuelle 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Qashqai,924990.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 20:50:37,BMW X3 Diesel Automatique 2019 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,X3,1449990.0,,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 20:50:41,Vente Ford Kuga Titanium 2018,250 000 DH,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,Oui,,Kuga,674990.0,Ford,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 20:50:46,Citroën C6 Diesel 1 er main ✋,84 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,C6,1949990.0,Citroen,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
+2024-03-25 20:50:52,Hyundai Tucson Diesel Automatique 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,,5.0,Tucson,874990.0,Hyundai,2020.0,Excellent,WW au Maroc,8,5,10,6.0,5,7.1
+2024-03-25 20:50:57,Renault clio 4,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,,824990.0,Renault,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 20:51:03,Peugeot 301 Diesel Manuelle 2017 à Safi,92 000 DH,Safi,"Voitures d'occasion, à vendre",Hay Essaâda,,5.0,301,1149990.0,Peugeot,2017.0,Excellent,,8,5,5,3.0,5,6.3
+2024-03-25 20:51:07,Volkswagen Eos Diesel Manuelle 2006 à Rabat,83 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,,3.0,EOS,1449990.0,Volkswagen,2006.0,Très bon,Dédouanée,7,5,8,-8.0,5,5.0
+2024-03-25 20:51:12,KIA PICANTO (60000KM),PRIX NON SPÉCIFIÉ,Kénitra,"Voitures d'occasion, à vendre",Centre,,5.0,Picanto,624990.0,Kia,2020.0,Neuf,WW au Maroc,5,5,10,6.0,5,5.6
+2024-03-25 20:51:16,Hyundai Accent Diesel Automatique 2023,168 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Accent,224990.0,Hyundai,2023.0,Très bon,WW au Maroc,7,5,10,9.0,5,6.9
+2024-03-25 20:51:20,Mercedes-Benz 220 Diesel Automatique 2017,330 000 DH,Marrakech,"Voitures d'occasion, à vendre",Massira 2,Non,5.0,220,1949990.0,Mercedes-Benz,2017.0,Très bon,,7,5,5,3.0,5,5.8
+2024-03-25 20:51:25,Jeep Renegade Diesel Automatique 2021 à El Jadida,225 000 DH,El Jadida,"Voitures d'occasion, à vendre",Centre,,5.0,Renegade,1049990.0,Jeep,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 20:51:28,Renault Captur Essence Automatique 2021,153 500 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,,Captur,924990.0,Renault,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-25 20:51:33,Mercedes-Benz Classe C Diesel Automatique 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,Classe C,24990.0,Mercedes-Benz,2023.0,,Importée neuve,5,9,9,9.0,5,6.6000000000000005
+2024-03-25 20:51:38,Hyundai Tucson Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Oui,5.0,Tucson,924990.0,,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 20:51:41,Renault Clio Diesel Manuelle 2021 à Casablanca,123 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Clio,974990.0,Renault,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 20:51:45,clio 5 entons,155 000 DH,Fès,"Voitures d'occasion, à vendre",Ain kadous,,5.0,Clio,624990.0,Renault,2020.0,Très bon,WW au Maroc,7,5,10,6.0,5,6.6
+2024-03-25 20:51:49,Bentley Bentayga Diesel Automatique 2017,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Bentayga,1049990.0,Bentley,2017.0,,Importée neuve,5,5,9,3.0,5,5.2
+2024-03-25 20:51:52,Dacia Dokker Diesel Manuelle 2019 à Casablanca,94 900 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Dokker,1349990.0,,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 20:51:56,range rover sport autobiographie,175 000 DH,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,5.0,Range Rover Sport,1349990.0,Land Rover,,Bon,Importée neuve,5,5,9,,5,
+2024-03-25 20:52:02,Mercedes-Benz Classe GLE Coupé Diesel 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,classe_gle_coupe,74990.0,Mercedes-Benz,,Excellent,Importée neuve,8,8,9,,5,
+2024-03-25 20:52:06,Mercedes Sprinter,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,,Sprinter,24990.0,Mercedes-Benz,2017.0,Très bon,WW au Maroc,7,9,10,3.0,5,7.1
+2024-03-25 20:52:10,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,,GOLF 7,1249990.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 20:52:14,Mercedes-Benz Classe E Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,Oui,5.0,Classe E,1149990.0,Mercedes-Benz,2018.0,Excellent,,8,5,5,4.0,5,6.4
+2024-03-25 20:52:19,Audi Q5 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Q5,524990.0,Audi,2021.0,Excellent,Dédouanée,8,5,8,7.0,5,7.0
+2024-03-25 20:52:23,Renault Clio Diesel Manuelle 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Clio,874990.0,Renault,2020.0,Excellent,,8,5,5,6.0,5,6.6
+2024-03-25 20:52:27,Alfa Romeo Stelvio Diesel Automatique 2018,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Stelvio,1049990.0,Alfa Romeo,2018.0,Très bon,,7,5,5,4.0,5,5.9
+2024-03-25 20:52:32,Ford ranger 2.2 limited 6 speed auto,180 000 DH,Temara,"Voitures d'occasion, à vendre",Harhoura,Non,,Ranger,1049990.0,Ford,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-25 20:52:36,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Non,5.0,Megane 3,1349990.0,Renault,,Excellent,WW au Maroc,8,5,10,,5,
 2024-03-25 20:52:41,jaguar XF diesel automatique 2019,PRIX NON SPÉCIFIÉ,الدار البيضاء,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,XF,,Jaguar,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
-2024-03-25 20:52:45,Hyundai Accent Diesel Automatique 2019 à Kénitra,122 000 DH,Kénitra,"Voitures d'occasion, à vendre",Centre,Non,,Accent,104999.0,Hyundai,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 20:52:49,Mercedes classe E350,PRIX NON SPÉCIFIÉ,الدار البيضاء,"Voitures d'occasion, à vendre",2 Mars,,5.0,Classe E,154999.0,Mercedes-Benz,2015.0,Très bon,Importée neuve,7,5,9,1.0,5,6.0
-2024-03-25 20:52:54,Volkswagen Amarok,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",,Non,5.0,Amarok,184999.0,Volkswagen,2013.0,Bon,WW au Maroc,5,5,10,-1.0,5,4.9
-2024-03-25 20:52:59,BMW Série 7 Diesel Automatique 2019 à Rabat,750 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 7,77499.0,BMW,2019.0,Excellent,,8,8,5,5.0,5,7.1
-2024-03-25 20:53:02,dacia duster man libres première main,175 000 DH,Mohammedia,"Voitures d'occasion, à vendre",La Siesta,Oui,,Duster,97499.0,Dacia,2021.0,Neuf,WW au Maroc,5,8,10,7.0,5,6.3
-2024-03-25 20:53:18,range rover sport autobiographie,175 000 DH,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,5.0,Range Rover Sport,134999.0,Land Rover,2013.0,,Importée neuve,5,7,9,-1.0,5,5.200000000000001
-2024-03-25 20:53:23,Mercedes-Benz Classe GLE Coupé Diesel 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,classe_gle_coupe,7499.0,,2023.0,Excellent,Importée neuve,8,9,9,9.0,5,8.100000000000001
-2024-03-25 20:53:27,Mercedes Sprinter,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,5.0,Sprinter,2499.0,Mercedes-Benz,,Très bon,WW au Maroc,7,9,10,,5,
-2024-03-25 20:53:32,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,,GOLF 7,124999.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
-2024-03-25 20:53:35,Mercedes-Benz Classe E Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,Oui,5.0,Classe E,114999.0,Mercedes-Benz,2018.0,,WW au Maroc,5,7,10,4.0,5,5.800000000000001
+2024-03-25 20:52:45,Hyundai Accent Diesel Automatique 2019 à Kénitra,122 000 DH,Kénitra,"Voitures d'occasion, à vendre",Centre,Non,,Accent,1049990.0,Hyundai,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 20:52:49,Mercedes classe E350,PRIX NON SPÉCIFIÉ,الدار البيضاء,"Voitures d'occasion, à vendre",2 Mars,,5.0,Classe E,1549990.0,Mercedes-Benz,2015.0,Très bon,Importée neuve,7,5,9,1.0,5,6.0
+2024-03-25 20:52:54,Volkswagen Amarok,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",,Non,5.0,Amarok,1849990.0,Volkswagen,2013.0,Bon,WW au Maroc,5,5,10,-1.0,5,4.9
+2024-03-25 20:52:59,BMW Série 7 Diesel Automatique 2019 à Rabat,750 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 7,774990.0,BMW,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 20:53:02,dacia duster man libres première main,175 000 DH,Mohammedia,"Voitures d'occasion, à vendre",La Siesta,Oui,,Duster,974990.0,Dacia,2021.0,Neuf,WW au Maroc,5,5,10,7.0,5,5.7
+2024-03-25 20:53:18,range rover sport autobiographie,175 000 DH,Marrakech,"Voitures d'occasion, à vendre",Route de Casablanca,Non,5.0,Range Rover Sport,1349990.0,Land Rover,2013.0,,Importée neuve,5,5,9,-1.0,5,4.800000000000001
+2024-03-25 20:53:23,Mercedes-Benz Classe GLE Coupé Diesel 2023,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,classe_gle_coupe,74990.0,,2023.0,Excellent,Importée neuve,8,8,9,9.0,5,7.9
+2024-03-25 20:53:27,Mercedes Sprinter,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,5.0,Sprinter,24990.0,Mercedes-Benz,,Très bon,WW au Maroc,7,9,10,,5,
+2024-03-25 20:53:32,Volkswagen Golf 7 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,,GOLF 7,1249990.0,Volkswagen,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-25 20:53:35,Mercedes-Benz Classe E Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Lissasfa,Oui,5.0,Classe E,1149990.0,Mercedes-Benz,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
 2024-03-25 20:53:39,Audi Q5 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Q5,,Audi,2021.0,Excellent,Dédouanée,8,5,8,7.0,5,7.0
-2024-03-25 20:53:43,Renault Clio Diesel Manuelle 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Clio,87499.0,Renault,2020.0,Excellent,,8,8,5,6.0,5,7.199999999999999
-2024-03-25 20:53:47,Alfa Romeo Stelvio Diesel Automatique 2018,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Stelvio,104999.0,Alfa Romeo,2018.0,,WW au Maroc,5,7,10,4.0,5,5.800000000000001
-2024-03-25 20:53:51,Ford ranger 2.2 limited 6 speed auto,180 000 DH,Temara,"Voitures d'occasion, à vendre",Harhoura,Non,5.0,Ranger,104999.0,Ford,,Très bon,WW au Maroc,7,7,10,,5,
-2024-03-25 20:53:54,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,Megane 3,134999.0,Renault,2015.0,Excellent,WW au Maroc,8,7,10,1.0,5,7.0
-2024-03-25 20:53:59,jaguar XF diesel automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,,114999.0,Jaguar,2019.0,Très bon,WW au Maroc,7,7,10,5.0,5,6.9
-2024-03-25 20:54:02,Hyundai Accent Diesel Automatique 2019 à Kénitra,122 000 DH,Kénitra,"Voitures d'occasion, à vendre",Centre,Non,5.0,Accent,104999.0,Hyundai,2019.0,Excellent,,8,7,5,5.0,5,6.9
-2024-03-25 20:54:06,Mercedes classe E350,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Classe E,154999.0,Mercedes-Benz,2015.0,Très bon,Importée neuve,7,5,9,1.0,5,6.0
-2024-03-25 20:54:10,Volkswagen Amarok,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",,Non,5.0,Amarok,184999.0,Volkswagen,2013.0,Bon,WW au Maroc,5,5,10,-1.0,5,4.9
-2024-03-25 20:54:15,BMW Série 7 Diesel Automatique 2019 à Rabat,750 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 7,77499.0,BMW,2019.0,Excellent,,8,8,5,5.0,5,7.1
-2024-03-25 20:54:20,dacia duster man libres première main,175 000 DH,Mohammedia,"Voitures d'occasion, à vendre",La Siesta,Oui,5.0,Duster,97499.0,Dacia,2021.0,,WW au Maroc,5,8,10,7.0,5,6.3
-2024-03-25 20:54:25,Honda Accord Essence Automatique 2008 à Marrakech,79 000 DH,Marrakech,"Voitures d'occasion, à vendre",Targa,,5.0,Accord,194999.0,Honda,2008.0,Très bon,WW au Maroc,7,5,10,-6.0,5,5.4
+2024-03-25 20:53:43,Renault Clio Diesel Manuelle 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hassan,Oui,5.0,Clio,874990.0,Renault,2020.0,Excellent,,8,5,5,6.0,5,6.6
+2024-03-25 20:53:47,Alfa Romeo Stelvio Diesel Automatique 2018,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Stelvio,1049990.0,Alfa Romeo,2018.0,,WW au Maroc,5,5,10,4.0,5,5.4
+2024-03-25 20:53:51,Ford ranger 2.2 limited 6 speed auto,180 000 DH,Temara,"Voitures d'occasion, à vendre",Harhoura,Non,5.0,Ranger,1049990.0,Ford,,Très bon,WW au Maroc,7,5,10,,5,
+2024-03-25 20:53:54,Renault Mégane Diesel,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,,5.0,Megane 3,1349990.0,Renault,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-25 20:53:59,jaguar XF diesel automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,,1149990.0,Jaguar,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 20:54:02,Hyundai Accent Diesel Automatique 2019 à Kénitra,122 000 DH,Kénitra,"Voitures d'occasion, à vendre",Centre,Non,5.0,Accent,1049990.0,Hyundai,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 20:54:06,Mercedes classe E350,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Classe E,1549990.0,Mercedes-Benz,2015.0,Très bon,Importée neuve,7,5,9,1.0,5,6.0
+2024-03-25 20:54:10,Volkswagen Amarok,115 000 DH,Casablanca,"Voitures d'occasion, à vendre",,Non,5.0,Amarok,1849990.0,Volkswagen,2013.0,Bon,WW au Maroc,5,5,10,-1.0,5,4.9
+2024-03-25 20:54:15,BMW Série 7 Diesel Automatique 2019 à Rabat,750 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Serie 7,774990.0,BMW,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-25 20:54:20,dacia duster man libres première main,175 000 DH,Mohammedia,"Voitures d'occasion, à vendre",La Siesta,Oui,5.0,Duster,974990.0,Dacia,2021.0,,WW au Maroc,5,5,10,7.0,5,5.7
+2024-03-25 20:54:25,Honda Accord Essence Automatique 2008 à Marrakech,79 000 DH,Marrakech,"Voitures d'occasion, à vendre",Targa,,5.0,Accord,1949990.0,Honda,2008.0,Très bon,WW au Maroc,7,5,10,-6.0,5,5.4
 2024-03-25 20:54:29,Mercedes-Benz Classe A Diesel Automatique 2014,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Centre,Oui,5.0,Classe A,,Mercedes-Benz,2014.0,Excellent,WW au Maroc,8,5,10,0.0,5,6.5
-2024-03-25 20:54:34,Renault Megane 3 1.9l 2010 à Casablanca,87 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Megane 3,144999.0,Renault,2010.0,,WW au Maroc,5,7,10,-4.0,5,5.0
-2024-03-25 20:54:38,Opel Crossland X,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,5.0,Crossland X,104999.0,Opel,2020.0,,WW au Maroc,5,7,10,6.0,5,6.0
-2024-03-25 20:54:42,kia,57 000 DH,El Jadida,"Voitures d'occasion, à vendre",Hay Essalam,Non,5.0,,42499.0,Kia,2007.0,Excellent,WW au Maroc,8,9,10,-7.0,5,6.6
-2024-03-25 20:54:46,Peugeot 3008 Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,,3008,37499.0,Peugeot,2022.0,Excellent,WW au Maroc,8,9,10,8.0,5,8.1
-2024-03-25 20:54:50,Mercedes,45 000 DH,Laâyoune,"Voitures d'occasion, à vendre",Toute la ville,,,250,274999.0,Mercedes-Benz,1992.0,Bon,Dédouanée,5,5,8,-22.0,5,2.5999999999999996
-2024-03-25 20:54:54,Audi Q3 Diesel Automatique 2018 à Casablanca,240 000 DH,Casablanca,"Voitures d'occasion, à vendre",Hay Moulay Rachid,,5.0,Q3,134999.0,Audi,2018.0,Excellent,WW au Maroc,8,7,10,4.0,5,7.300000000000001
-2024-03-25 20:54:59,Land Rover Range Rover Evoque Diesel Automatique,207 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,Range Rover Evoque,184999.0,,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
-2024-03-25 20:55:04,Nissan qashqai,192 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,,5.0,Qashqai,124999.0,Nissan,2019.0,Très bon,WW au Maroc,7,7,10,5.0,5,6.9
-2024-03-25 20:55:09,Audi Q8 50 tdi sline,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Q8,2499.0,Audi,2023.0,Excellent,,8,9,5,9.0,5,7.7
+2024-03-25 20:54:34,Renault Megane 3 1.9l 2010 à Casablanca,87 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,Megane 3,1449990.0,Renault,2010.0,,WW au Maroc,5,5,10,-4.0,5,4.6
+2024-03-25 20:54:38,Opel Crossland X,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,5.0,Crossland X,1049990.0,Opel,2020.0,,WW au Maroc,5,5,10,6.0,5,5.6
+2024-03-25 20:54:42,kia,57 000 DH,El Jadida,"Voitures d'occasion, à vendre",Hay Essalam,Non,5.0,,424990.0,Kia,2007.0,Excellent,WW au Maroc,8,5,10,-7.0,5,5.8
+2024-03-25 20:54:46,Peugeot 3008 Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,Oui,,3008,374990.0,Peugeot,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-25 20:54:50,Mercedes,45 000 DH,Laâyoune,"Voitures d'occasion, à vendre",Toute la ville,,,250,2749990.0,Mercedes-Benz,1992.0,Bon,Dédouanée,5,5,8,-22.0,5,2.5999999999999996
+2024-03-25 20:54:54,Audi Q3 Diesel Automatique 2018 à Casablanca,240 000 DH,Casablanca,"Voitures d'occasion, à vendre",Hay Moulay Rachid,,5.0,Q3,1349990.0,Audi,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-25 20:54:59,Land Rover Range Rover Evoque Diesel Automatique,207 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Non,5.0,Range Rover Evoque,1849990.0,,2017.0,Excellent,WW au Maroc,8,5,10,3.0,5,6.8
+2024-03-25 20:55:04,Nissan qashqai,192 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,,5.0,Qashqai,1249990.0,Nissan,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-25 20:55:09,Audi Q8 50 tdi sline,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Q8,24990.0,Audi,2023.0,Excellent,,8,9,5,9.0,5,7.7
 2024-03-25 20:55:13,Toyota Prado Diesel Automatique 2012 à Laâyoune,PRIX NON SPÉCIFIÉ,Laâyoune,"Voitures d'occasion, à vendre",Toute la ville,Non,5.0,Prado,,Toyota,2012.0,Excellent,WW au Maroc,8,5,10,-2.0,5,6.3
-2024-03-25 20:55:18,Peugeot 2008,14 000 DH,Taza,"Voitures d'occasion, à vendre",Toute la ville,,5.0,2008,92499.0,Peugeot,2015.0,Très bon,WW au Maroc,7,8,10,1.0,5,6.699999999999999
-2024-03-25 20:55:24,بيجو للبيع,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Non,5.0,308,22499.0,Peugeot,2008.0,,WW au Maroc,5,9,10,-6.0,5,5.199999999999999
-2024-03-25 20:55:28,Renault Fluence,80 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,,5.0,Fluence,184999.0,Renault,2010.0,,,5,5,5,-4.0,5,4.1
-2024-03-25 20:55:31,Mercedes classe c dédouanée 2011 très bonne état,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Non,,Classe C,144999.0,Mercedes-Benz,2011.0,Excellent,Dédouanée,8,7,8,-3.0,5,6.4
-2024-03-25 20:55:35,Renault Kangoo Diesel Manuelle 2020 à Salé,PRIX NON SPÉCIFIÉ,Salé,"Voitures d'occasion, à vendre",Hay Salam,,,Kangoo,42499.0,Renault,2020.0,,WW au Maroc,5,9,10,6.0,5,6.4
-2024-03-25 20:55:38,Audi A3 Diesel Automatique 2014 à Tanger,215 000 DH,Tanger,"Voitures d'occasion, à vendre",Ahlane,Non,5.0,A3,224999.0,Audi,2014.0,Excellent,,8,5,5,0.0,5,6.0
-2024-03-25 20:55:42,Pick-up Peugeot,175 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,3.0,landtrek,42499.0,,2021.0,Excellent,WW au Maroc,8,9,10,7.0,5,8.0
+2024-03-25 20:55:18,Peugeot 2008,14 000 DH,Taza,"Voitures d'occasion, à vendre",Toute la ville,,5.0,2008,924990.0,Peugeot,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-25 20:55:24,بيجو للبيع,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Almaz,Non,5.0,308,224990.0,Peugeot,2008.0,,WW au Maroc,5,5,10,-6.0,5,4.4
+2024-03-25 20:55:28,Renault Fluence,80 000 DH,Tétouan,"Voitures d'occasion, à vendre",Centre ville,,5.0,Fluence,1849990.0,Renault,2010.0,,,5,5,5,-4.0,5,4.1
+2024-03-25 20:55:31,Mercedes classe c dédouanée 2011 très bonne état,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Non,,Classe C,1449990.0,Mercedes-Benz,2011.0,Excellent,Dédouanée,8,5,8,-3.0,5,6.0
+2024-03-25 20:55:35,Renault Kangoo Diesel Manuelle 2020 à Salé,PRIX NON SPÉCIFIÉ,Salé,"Voitures d'occasion, à vendre",Hay Salam,,,Kangoo,424990.0,Renault,2020.0,,WW au Maroc,5,5,10,6.0,5,5.6
+2024-03-25 20:55:38,Audi A3 Diesel Automatique 2014 à Tanger,215 000 DH,Tanger,"Voitures d'occasion, à vendre",Ahlane,Non,5.0,A3,2249990.0,Audi,2014.0,Excellent,,8,5,5,0.0,5,6.0
+2024-03-25 20:55:42,Pick-up Peugeot,175 000 DH,Casablanca,"Voitures d'occasion, à vendre",Aïn Borja,Oui,3.0,landtrek,424990.0,,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-27 11:30:49,Volkswagen Golf 8 Diesel Manuelle 2021 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,GOLF 8,72499.0,Volkswagen,2021.0,Excellent,Importée neuve,8,8,9,7.0,5,7.7
+2024-03-27 11:30:53,Peugeot 508 Diesel 2l Automatique 2015 à Casa,127 000 DH,Casablanca,"Voitures d'occasion, à vendre",Abdelmoumen,Oui,5.0,,184999.0,Peugeot,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-27 11:30:58,Mercedes-Benz Classe GLE Coupé Hybride 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,Oui,5.0,classe_gle_coupe,,Mercedes-Benz,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-27 11:31:02,Hyundai Tucson Diesel Automatique 2018 à Tanger,238 000 DH,Tanger,"Voitures d'occasion, à vendre",Autre secteur,Oui,,Tucson,104999.0,Hyundai,2018.0,Excellent,WW au Maroc,8,7,10,4.0,5,7.300000000000001
+2024-03-27 11:31:06,Land Rover Range Rover Evoque Diesel Automatique,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,,77499.0,Land Rover,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
+2024-03-27 11:31:11,hyundqi i30,92 000 DH,Bousselham,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,,144999.0,Hyundai,2016.0,Très bon,WW au Maroc,7,7,10,2.0,5,6.6000000000000005
+2024-03-27 11:31:16,Audi A4 Diesel Automatique 2019 à Casablanca,280 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,A4,,Audi,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-27 11:31:22,Peugeot 206 Essence Manuelle 2013 à Berrechid,580 000 DH,Berrechid,"Voitures d'occasion, à vendre",Toute la ville,,,206+,104999.0,Peugeot,2013.0,Excellent,,8,7,5,-1.0,5,6.300000000000001
+2024-03-27 11:31:25,Seat Leon Diesel Manuelle 2019 à Casablanca,173 000 DH,Casablanca,"Voitures d'occasion, à vendre",Al Qods,Oui,5.0,,62499.0,Seat,2019.0,Excellent,WW au Maroc,8,8,10,5.0,5,7.6
+2024-03-27 11:31:30,Nissan Qashqai Diesel Manuelle 2019 à El Jadida,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Qashqai,104999.0,,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:31:37,Dacia Dokker Diesel Manuelle 2016 à Casablanca,112 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,,124999.0,Dacia,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
+2024-03-27 11:31:42,Land Rover Range Rover Sport Diesel Automatique,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Range Rover Sport,164999.0,Land Rover,,Très bon,Dédouanée,7,5,8,,5,
+2024-03-27 11:31:47,Alfa Romeo Giulietta Diesel Automatique 2021,195 000 DH,Casablanca,"Voitures d'occasion, à vendre",Abdelmoumen,,5.0,Giulietta,87499.0,Alfa Romeo,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
+2024-03-27 11:31:52,Jeep Renegade Diesel Automatique 2018 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,Renegade,92499.0,,2018.0,Très bon,WW au Maroc,7,8,10,4.0,5,7.0
+2024-03-27 11:31:57,Logan Diesel 1er main 75000km excellente état,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,Logan,,Dacia,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-27 11:32:02,Mercedes-Benz Classe C Diesel Automatique 2014,300 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,,Classe C,194999.0,Mercedes-Benz,2014.0,Excellent,Dédouanée,8,5,8,0.0,5,6.3
+2024-03-27 11:32:07,Toyota Prado Diesel Automatique 2015 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Prado,224999.0,Toyota,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-27 11:32:13,Skoda Octavia 2L Diesel 1er main ww 2020,167 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,Octavia,114999.0,Skoda,2020.0,Excellent,,8,7,5,6.0,5,7.0
+2024-03-27 11:32:17,Volkswagen Touran Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Touran,144999.0,Volkswagen,2019.0,Très bon,Dédouanée,7,7,8,5.0,5,6.7
+2024-03-27 11:32:22,Jeep Wrangler Diesel Automatique 2015 à Marrakech,260 000 DH,Marrakech,"Voitures d'occasion, à vendre",Sidi Ghanem,Non,5.0,Wrangler,134999.0,Jeep,,Très bon,WW au Maroc,7,7,10,,5,
+2024-03-27 11:32:26,Mercedes-Benz Classe GLE Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,,134999.0,Mercedes-Benz,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
+2024-03-27 11:32:31,Jeep Cherokee Diesel Automatique 2015 à Rabat,185 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,5.0,Cherokee,,Jeep,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-27 11:32:35,KIFAL - JEEP Grand Cherokee,192 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,,,Grand Cherokee,144999.0,Jeep,2016.0,,,5,7,5,2.0,5,5.1000000000000005
+2024-03-27 11:32:40,Crafter 21 place pour tourisme et personnel 2021,327 000 DH,Casablanca,"Voitures d'occasion, à vendre",Quartier des Hôpitaux,Oui,5.0,CRAFTER,104999.0,,2021.0,Excellent,WW au Maroc,8,7,10,7.0,5,7.6000000000000005
+2024-03-27 11:32:45,dacia duster Automatique,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Azzouzia,Oui,,Duster,104999.0,Dacia,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:32:49,BMW Série 5 Diesel Automatique 2018 à Rabat,350 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,,Serie 5,92499.0,BMW,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
+2024-03-27 11:32:54,Mercedes glc coupé 43 amg biturbo,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,CLASSE GLC COUPE,87499.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,8,9,4.0,5,7.4
+2024-03-27 11:32:58,dacia duster,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Azzouzia,Oui,5.0,Duster,114999.0,,2019.0,Très bon,WW au Maroc,7,7,10,5.0,5,6.9
+2024-03-27 11:33:03,Seat Ibiza Essence Manuelle 2011 à Temara,79 000 DH,Temara,"Voitures d'occasion, à vendre",Wifak,Non,5.0,Ibiza,17499.0,Seat,,Très bon,WW au Maroc,7,9,10,,5,
+2024-03-27 11:33:08,سطروين سي 3,95 000 DH,Tanger,"Voitures d'occasion, à vendre",Jirrari,Non,5.0,C3,,Citroen,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-27 11:33:13,Audi Q5 Diesel Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,Q5,134999.0,,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:33:18,Porsche macan s premiere main,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,Macan,97499.0,,2018.0,Excellent,Importée neuve,8,8,9,4.0,5,7.4
+2024-03-27 11:33:24,Renault Megane Coupé Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Salé,"Voitures d'occasion, à vendre",Sidi Moussa,,,Megane Coupe,114999.0,Renault,2018.0,,,5,7,5,4.0,5,5.300000000000001
+2024-03-27 11:33:28,DFSK K01 Essence Manuelle 2019 à Casablanca,69 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,Non,3.0,K01,57499.0,DFSK,2019.0,Très bon,,7,8,5,5.0,5,6.6
+2024-03-27 11:33:32,Land Rover Range Rover Sport startech,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,Range Rover Sport,104999.0,Land Rover,2017.0,,WW au Maroc,5,7,10,3.0,5,5.7
+2024-03-27 11:30:49,Volkswagen Golf 8 Diesel Manuelle 2021 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,,5.0,GOLF 8,72499.0,Volkswagen,2021.0,Excellent,Importée neuve,8,8,9,7.0,5,7.7
+2024-03-27 11:30:53,Peugeot 508 Diesel 2l Automatique 2015 à Casa,127 000 DH,Casablanca,"Voitures d'occasion, à vendre",Abdelmoumen,Oui,5.0,,184999.0,Peugeot,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-27 11:30:58,Mercedes-Benz Classe GLE Coupé Hybride 2021,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Val Fleuri,Oui,5.0,classe_gle_coupe,,Mercedes-Benz,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-27 11:31:02,Hyundai Tucson Diesel Automatique 2018 à Tanger,238 000 DH,Tanger,"Voitures d'occasion, à vendre",Autre secteur,Oui,,Tucson,104999.0,Hyundai,2018.0,Excellent,WW au Maroc,8,7,10,4.0,5,7.300000000000001
+2024-03-27 11:31:06,Land Rover Range Rover Evoque Diesel Automatique,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,,77499.0,Land Rover,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
+2024-03-27 11:31:11,hyundqi i30,92 000 DH,Bousselham,"Voitures d'occasion, à vendre",Toute la ville,Oui,5.0,,144999.0,Hyundai,2016.0,Très bon,WW au Maroc,7,7,10,2.0,5,6.6000000000000005
+2024-03-27 11:31:16,Audi A4 Diesel Automatique 2019 à Casablanca,280 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,A4,,Audi,2019.0,Excellent,WW au Maroc,8,5,10,5.0,5,7.0
+2024-03-27 11:31:22,Peugeot 206 Essence Manuelle 2013 à Berrechid,580 000 DH,Berrechid,"Voitures d'occasion, à vendre",Toute la ville,,,206+,104999.0,Peugeot,2013.0,Excellent,,8,7,5,-1.0,5,6.300000000000001
+2024-03-27 11:31:25,Seat Leon Diesel Manuelle 2019 à Casablanca,173 000 DH,Casablanca,"Voitures d'occasion, à vendre",Al Qods,Oui,5.0,,62499.0,Seat,2019.0,Excellent,WW au Maroc,8,8,10,5.0,5,7.6
+2024-03-27 11:31:30,Nissan Qashqai Diesel Manuelle 2019 à El Jadida,PRIX NON SPÉCIFIÉ,El Jadida,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Qashqai,104999.0,,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:31:37,Dacia Dokker Diesel Manuelle 2016 à Casablanca,112 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,,124999.0,Dacia,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
+2024-03-27 11:31:42,Land Rover Range Rover Sport Diesel Automatique,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Hay Hassani,Oui,5.0,Range Rover Sport,164999.0,Land Rover,,Très bon,Dédouanée,7,5,8,,5,
+2024-03-27 11:31:47,Alfa Romeo Giulietta Diesel Automatique 2021,195 000 DH,Casablanca,"Voitures d'occasion, à vendre",Abdelmoumen,,5.0,Giulietta,87499.0,Alfa Romeo,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
+2024-03-27 11:31:52,Jeep Renegade Diesel Automatique 2018 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,Renegade,92499.0,,2018.0,Très bon,WW au Maroc,7,8,10,4.0,5,7.0
+2024-03-27 11:31:57,Logan Diesel 1er main 75000km excellente état,125 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,Logan,,Dacia,2022.0,Excellent,WW au Maroc,8,5,10,8.0,5,7.3
+2024-03-27 11:32:02,Mercedes-Benz Classe C Diesel Automatique 2014,300 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,,Classe C,194999.0,Mercedes-Benz,2014.0,Excellent,Dédouanée,8,5,8,0.0,5,6.3
+2024-03-27 11:32:07,Toyota Prado Diesel Automatique 2015 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Prado,224999.0,Toyota,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-27 11:32:13,Skoda Octavia 2L Diesel 1er main ww 2020,167 000 DH,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,Octavia,114999.0,Skoda,2020.0,Excellent,,8,7,5,6.0,5,7.0
+2024-03-27 11:32:17,Volkswagen Touran Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,,Touran,144999.0,Volkswagen,2019.0,Très bon,Dédouanée,7,7,8,5.0,5,6.7
+2024-03-27 11:32:22,Jeep Wrangler Diesel Automatique 2015 à Marrakech,260 000 DH,Marrakech,"Voitures d'occasion, à vendre",Sidi Ghanem,Non,5.0,Wrangler,134999.0,Jeep,,Très bon,WW au Maroc,7,7,10,,5,
+2024-03-27 11:32:26,Mercedes-Benz Classe GLE Diesel Automatique 2016,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,,134999.0,Mercedes-Benz,2016.0,Excellent,WW au Maroc,8,7,10,2.0,5,7.1000000000000005
+2024-03-27 11:32:31,Jeep Cherokee Diesel Automatique 2015 à Rabat,185 000 DH,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,5.0,Cherokee,,Jeep,2015.0,Excellent,WW au Maroc,8,5,10,1.0,5,6.6
+2024-03-27 11:32:35,KIFAL - JEEP Grand Cherokee,192 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,,,Grand Cherokee,144999.0,Jeep,2016.0,,,5,7,5,2.0,5,5.1000000000000005
+2024-03-27 11:32:40,Crafter 21 place pour tourisme et personnel 2021,327 000 DH,Casablanca,"Voitures d'occasion, à vendre",Quartier des Hôpitaux,Oui,5.0,CRAFTER,104999.0,,2021.0,Excellent,WW au Maroc,8,7,10,7.0,5,7.6000000000000005
+2024-03-27 11:32:45,dacia duster Automatique,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Azzouzia,Oui,,Duster,104999.0,Dacia,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:32:49,BMW Série 5 Diesel Automatique 2018 à Rabat,350 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,,Serie 5,92499.0,BMW,2018.0,Excellent,WW au Maroc,8,8,10,4.0,5,7.5
+2024-03-27 11:32:54,Mercedes glc coupé 43 amg biturbo,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,CLASSE GLC COUPE,87499.0,Mercedes-Benz,2018.0,Excellent,Importée neuve,8,8,9,4.0,5,7.4
+2024-03-27 11:32:58,dacia duster,PRIX NON SPÉCIFIÉ,Marrakech,"Voitures d'occasion, à vendre",Azzouzia,Oui,5.0,Duster,114999.0,,2019.0,Très bon,WW au Maroc,7,7,10,5.0,5,6.9
+2024-03-27 11:33:03,Seat Ibiza Essence Manuelle 2011 à Temara,79 000 DH,Temara,"Voitures d'occasion, à vendre",Wifak,Non,5.0,Ibiza,17499.0,Seat,,Très bon,WW au Maroc,7,9,10,,5,
+2024-03-27 11:33:08,سطروين سي 3,95 000 DH,Tanger,"Voitures d'occasion, à vendre",Jirrari,Non,5.0,C3,,Citroen,2019.0,Très bon,WW au Maroc,7,5,10,5.0,5,6.5
+2024-03-27 11:33:13,Audi Q5 Diesel Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,Q5,134999.0,,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:33:18,Porsche macan s premiere main,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,Macan,97499.0,,2018.0,Excellent,Importée neuve,8,8,9,4.0,5,7.4
+2024-03-27 11:33:24,Renault Megane Coupé Diesel Automatique 2018,PRIX NON SPÉCIFIÉ,Salé,"Voitures d'occasion, à vendre",Sidi Moussa,,,Megane Coupe,114999.0,Renault,2018.0,,,5,7,5,4.0,5,5.300000000000001
+2024-03-27 11:33:28,DFSK K01 Essence Manuelle 2019 à Casablanca,69 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Moumen,Non,3.0,K01,57499.0,DFSK,2019.0,Très bon,,7,8,5,5.0,5,6.6
+2024-03-27 11:33:32,Land Rover Range Rover Sport startech,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,Oui,5.0,Range Rover Sport,104999.0,Land Rover,2017.0,,WW au Maroc,5,7,10,3.0,5,5.7
+2024-03-27 11:38:21,dokker 2 portes coulissantes,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Belvédère,,,Dokker,114999.0,Dacia,2021.0,,,5,7,5,7.0,5,5.6000000000000005
+2024-03-27 11:38:26,Jaguar F-Pace Diesel Automatique 2017 à Casablanca,320 000 DH,Casablanca,"Voitures d'occasion, à vendre",C.I.L,Oui,,F-PACE,104999.0,Jaguar,2017.0,Excellent,Dédouanée,8,7,8,3.0,5,7.0
+2024-03-27 11:38:31,fait palio 2002,33 000 DH,Khemisset,"Voitures d'occasion, à vendre",Toute la ville,Non,5.0,,274999.0,Fiat,2002.0,Bon,WW au Maroc,5,5,10,-12.0,5,3.8
+2024-03-27 11:38:36,Peugeot Bipper modifié 2014 sans clim,75 000 DH,Marrakech,"Voitures d'occasion, à vendre",Hay Massira,Non,5.0,Bipper,114999.0,,2014.0,Très bon,WW au Maroc,7,7,10,0.0,5,6.4
+2024-03-27 11:38:42,fiât X automatique reprise,168 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,500X,114999.0,Fiat,,Excellent,WW au Maroc,8,7,10,,5,
+2024-03-27 11:38:48,Kia Sportage automatique toit panoramique,240 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,Sportage,82499.0,Kia,,Excellent,WW au Maroc,8,8,10,,5,
+2024-03-27 11:38:56,Ford Mustang Coupé Essence Automatique 2015,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Massira,,3.0,Mustang,62499.0,Ford,2015.0,Excellent,Dédouanée,8,8,8,1.0,5,6.999999999999999
+2024-03-27 11:39:03,Dacia Dokker Métallisée,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,,57499.0,Dacia,2021.0,Excellent,WW au Maroc,8,8,10,7.0,5,7.8
+2024-03-27 11:39:10,Audi Q5 Diesel Automatique 2014 à Fès,180 000 DH,Fès,"Voitures d'occasion, à vendre",Hay Saada,Non,5.0,Q5,194999.0,Audi,2014.0,Très bon,,7,5,5,0.0,5,5.5
+2024-03-27 11:39:15,Classe A 200,PRIX NON SPÉCIFIÉ,Tétouan,"Voitures d'occasion, à vendre",Taboula,Oui,5.0,Classe A,144999.0,,2014.0,Neuf,Dédouanée,5,7,8,0.0,5,5.2
+2024-03-27 11:39:23,logan dacia neuve,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Logan,32499.0,Dacia,2021.0,Neuf,,5,9,5,7.0,5,6.0
+2024-03-27 11:39:32,Mercedes-Benz Classe E Coupé Pack AMG,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,3.0,classe_e_coupe,92499.0,Mercedes-Benz,2019.0,Excellent,,8,8,5,5.0,5,7.1
+2024-03-27 11:39:41,Dacia Logan Diesel faire reprise,52 000 DH,Agadir,"Voitures d'occasion, à vendre",Tilila,,,Logan,224999.0,Dacia,2011.0,Bon,,5,5,5,-3.0,5,4.2
+2024-03-27 11:39:50,BMW Série 5 Diesel Automatique 2021 à Casablanca,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Californie,Oui,5.0,Serie 5,,BMW,2021.0,Excellent,WW au Maroc,8,5,10,7.0,5,7.2
+2024-03-27 11:39:57,Seat Leon FR Diesel Automatique 2019 à Tanger,258 000 DH,Tanger,"Voitures d'occasion, à vendre",Drissia,,5.0,Leon,92499.0,Seat,2019.0,Très bon,Importée neuve,7,8,9,5.0,5,7.0
+2024-03-27 11:40:02,Opel crossland,158 000 DH,Kénitra,"Voitures d'occasion, à vendre",Ouled Oujih,Non,5.0,Crossland X,154999.0,Opel,2019.0,Excellent,,8,5,5,5.0,5,6.5
+2024-03-27 11:40:10,Jeep 4x4vGrand Cherokee limetid Automatique,158 000 DH,Casablanca,"Voitures d'occasion, à vendre",Quartier des Hôpitaux,Oui,,Grand Cherokee,144999.0,Jeep,2018.0,Excellent,WW au Maroc,8,7,10,4.0,5,7.300000000000001
+2024-03-27 11:40:16,Renault Megane Diesel Manuelle 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Massira,Non,5.0,Megane,77499.0,,2020.0,Excellent,WW au Maroc,8,8,10,6.0,5,7.699999999999999
+2024-03-27 11:40:23,Renault Megane 4 Diesel Automatique 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,5.0,megane_4,87499.0,Renault,2019.0,Très bon,,7,8,5,5.0,5,6.6
+2024-03-27 11:40:29,Alfa Romeo Stelvio Diesel Automatique 2018,245 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Stelvio,104999.0,Alfa Romeo,2018.0,Très bon,WW au Maroc,7,7,10,4.0,5,6.800000000000001
+2024-03-27 11:40:34,Logan modil 2015 l3amra,98 000 DH,Agadir,"Voitures d'occasion, à vendre",Centre Ville,Oui,5.0,Logan,134999.0,Dacia,,Très bon,Dédouanée,7,7,8,,5,
+2024-03-27 11:40:39,Peugeot 5008 Diesel Automatique 2022 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Autre secteur,,5.0,5008,42499.0,Peugeot,2022.0,Excellent,WW au Maroc,8,9,10,8.0,5,8.1
+2024-03-27 11:40:44,دصيا لوجان ا,67 000 DH,Tanger,"Voitures d'occasion, à vendre",Al Amal,Non,5.0,Logan,224999.0,Dacia,2009.0,Très bon,,7,5,5,-5.0,5,5.0
+2024-03-27 11:40:49,Ford Fusion Diesel Automatique 2016 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,5.0,Fusion,114999.0,Ford,2016.0,Excellent,,8,7,5,2.0,5,6.6000000000000005
+2024-03-27 11:40:56,Toyota C-HR Hybride Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,,C-HR,67499.0,Toyota,2019.0,Excellent,WW au Maroc,8,8,10,5.0,5,7.6
+2024-03-27 11:41:01,Renault Clio Diesel Manuelle 2019 à Rabat,109 000 DH,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Clio,92499.0,Renault,2019.0,,WW au Maroc,5,8,10,5.0,5,6.1
+2024-03-27 11:41:07,Volkswagen golf 6,115 000 DH,Temara,"Voitures d'occasion, à vendre",Riad Oulad Mtaa,Oui,5.0,GOLF 6,274999.0,Volkswagen,2009.0,Très bon,,7,5,5,-5.0,5,5.0
+2024-03-27 11:41:13,Nissan Micra Diesel Manuelle 2018,PRIX NON SPÉCIFIÉ,Safi,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Micra,,Nissan,2018.0,Excellent,WW au Maroc,8,5,10,4.0,5,6.9
+2024-03-27 11:41:18,Porsche Cayenne Coupe E- Hybride 2022,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Ain El Hayani,Oui,3.0,cayenne_coupe,22499.0,Porsche,2022.0,,Importée neuve,5,9,9,8.0,5,6.5
+2024-03-27 11:41:24,Peugeot 3008 Diesel Manuelle 2017 à Khouribga,PRIX NON SPÉCIFIÉ,Khouribga,"Voitures d'occasion, à vendre",Toute la ville,,,3008,154999.0,Peugeot,2017.0,,,5,5,5,3.0,5,4.8
+2024-03-27 11:41:29,Renault Clio Diesel Manuelle 2023 à Fès,178 000 DH,Fès,"Voitures d'occasion, à vendre",Route Ain Chkaf,,5.0,Clio,47499.0,Renault,2023.0,Excellent,WW au Maroc,8,9,10,9.0,5,8.2
+2024-03-27 11:41:35,Range Rover Sport dynamique,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Aïn Chock,,,Range Rover Sport,114999.0,Land Rover,2019.0,Excellent,WW au Maroc,8,7,10,5.0,5,7.4
+2024-03-27 11:41:40,Citroën C6 Diesel 1 er main ✋,84 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Maarouf,Oui,5.0,C6,194999.0,,2010.0,Excellent,WW au Maroc,8,5,10,-4.0,5,6.1
+2024-03-27 11:41:45,Volkswagen Touareg V6 TDi 2014 Diesel,148 000 DH,Casablanca,"Voitures d'occasion, à vendre",Maarif,,5.0,Touareg,154999.0,Volkswagen,2014.0,Excellent,WW au Maroc,8,5,10,0.0,5,6.5
+2024-03-27 11:41:51,Hyundai Accent Diesel Automatique 2022,156 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,,Accent,42499.0,Hyundai,2022.0,Très bon,WW au Maroc,7,9,10,8.0,5,7.6
+2024-03-27 11:38:21,Dacia Spring Electrique Automatique 2023 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Massira,Oui,5.0,spring,2499.0,Dacia,2023.0,,WW au Maroc,5,9,10,9.0,5,6.7
+2024-03-27 11:38:26,PGT 206 PLUS DIESEL,75 000 DH,Meknès,"Voitures d'occasion, à vendre",Zitoune,Non,5.0,206+,154999.0,Peugeot,2012.0,,WW au Maroc,5,5,10,-2.0,5,4.8
+2024-03-27 11:38:31,Mercedes-Benz Classe G Essence Automatique 2024,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,,Classe G,2499.0,Mercedes-Benz,2024.0,Excellent,Importée neuve,8,9,9,10.0,5,8.2
+2024-03-27 11:38:36,Mitsubishi pajero Diesel 2011,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,pajero,224999.0,Mitsubishi,2011.0,Très bon,,7,5,5,-3.0,5,5.2
+2024-03-27 11:38:43,Citroen DS3 Essence Manuelle 2016 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Massira,,3.0,DS 3,62499.0,Citroen,2016.0,Excellent,,8,8,5,2.0,5,6.8
+2024-03-27 11:38:48,Hyundai I10 Clim,86 000 DH,Casablanca,"Voitures d'occasion, à vendre",Anfa,Oui,5.0,i 10,,Hyundai,2020.0,Très bon,WW au Maroc,7,5,10,6.0,5,6.6
+2024-03-27 11:38:56,BMW X7 Diesel Automatique 2023 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Non,5.0,X7,12499.0,BMW,2023.0,Excellent,,8,9,5,9.0,5,7.7
+2024-03-27 11:39:03,Range Rover Evoque 2020,385 000 DH,Agadir,"Voitures d'occasion, à vendre",Tilila,Non,5.0,Range Rover Evoque,82499.0,Land Rover,2020.0,Excellent,,8,8,5,6.0,5,7.199999999999999
+2024-03-27 11:39:11,Renault Clio Diesel Automatique 2017 à Safi,PRIX NON SPÉCIFIÉ,Safi,"Voitures d'occasion, à vendre",Autre secteur,Oui,5.0,Clio,144999.0,Renault,2017.0,,WW au Maroc,5,7,10,3.0,5,5.7
+2024-03-27 11:39:15,Mercedes C180 D 700dh Vignette Automatique,225 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Oui,3.0,Classe C,,Mercedes-Benz,2016.0,Excellent,WW au Maroc,8,5,10,2.0,5,6.7
+2024-03-27 11:39:21,Kia Picanto GT LINE Automatique 2022,155 000 DH,Casablanca,"Voitures d'occasion, à vendre",Sidi Bernoussi,Non,5.0,Picanto,17499.0,Kia,2022.0,Très bon,,7,9,5,8.0,5,7.1
+2024-03-27 11:39:31,Mercedes-Benz Classe GLA Diesel Automatique 2015,225 000 DH,Casablanca,"Voitures d'occasion, à vendre",Casablanca Finance City,,5.0,Classe GLA,134999.0,Mercedes-Benz,2015.0,Très bon,WW au Maroc,7,7,10,1.0,5,6.5
+2024-03-27 11:39:41,KIFAL - FIAT Ducato,155 000 DH,Agadir,"Voitures d'occasion, à vendre",Autre secteur,,,Ducato,92499.0,Fiat,2018.0,,,5,8,5,4.0,5,5.5
+2024-03-27 11:39:49,Skoda Kodiaq Diesel Automatique 2018 à Agadir,380 000 DH,Agadir,"Voitures d'occasion, à vendre",Lekhiam,,5.0,Kodiaq,224999.0,Skoda,2018.0,Très bon,Dédouanée,7,5,8,4.0,5,6.2
+2024-03-27 11:39:56,Peugeot 208 luke plus fool opt 76000km neuf,98 000 DH,Casablanca,"Voitures d'occasion, à vendre",Derb Ghallef,Oui,5.0,208,72499.0,Peugeot,,Excellent,WW au Maroc,8,8,10,,5,
+2024-03-27 11:40:02,Hyundai Tucson Diesel Automatique 2023,320 000 DH,Casablanca,"Voitures d'occasion, à vendre",Californie,,5.0,Tucson,47499.0,Hyundai,2023.0,Excellent,WW au Maroc,8,9,10,9.0,5,8.2
+2024-03-27 11:40:09,فولزفاكن جولف 6,106 000 DH,Tanger,"Voitures d'occasion, à vendre",Girari,Non,,GOLF 6,154999.0,Volkswagen,2010.0,Très bon,WW au Maroc,7,5,10,-4.0,5,5.6
+2024-03-27 11:40:16,Jaguar S-Type Essence Automatique 2003,42 000 DH,Casablanca,"Voitures d'occasion, à vendre",2 Mars,Non,5.0,S-Type,184999.0,Jaguar,2003.0,,WW au Maroc,5,5,10,-11.0,5,3.9
+2024-03-27 11:40:22,Hyundai Santa Fe Diesel Automatique 2020 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Oui,5.0,Santa Fe,104999.0,Hyundai,2020.0,Excellent,,8,7,5,6.0,5,7.0
+2024-03-27 11:40:27,Volkswagen Touareg Diesel Automatique 2019 à Rabat,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay Riad,Oui,5.0,Touareg,104999.0,,2019.0,Neuf,WW au Maroc,5,7,10,5.0,5,5.9
+2024-03-27 11:40:33,Volkswagen Caddy Diesel Manuelle 2019 à Casablanca,142 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ben M'sick,Oui,5.0,Caddy,92499.0,Volkswagen,2019.0,,WW au Maroc,5,8,10,5.0,5,6.1
+2024-03-27 11:40:38,رونو كليو 4 ديزل,92 000 DH,Tanger,"Voitures d'occasion, à vendre",Jirrari,Non,5.0,Clio,224999.0,,2015.0,Très bon,WW au Maroc,7,5,10,1.0,5,6.1
+2024-03-27 11:40:44,Volkswagen Golf 8 Essence Automatique 2022,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,GOLF 8,22499.0,,2022.0,Excellent,Importée neuve,8,9,9,8.0,5,8.0
+2024-03-27 11:40:50,Volkswagen Touareg Diesel Automatique 2020,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,Oui,5.0,Touareg,104999.0,Volkswagen,,Excellent,WW au Maroc,8,7,10,,5,
+2024-03-27 11:40:55,BMW Série 1 Essence 2012 Lci,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Hay el Fath,Non,3.0,,194999.0,BMW,2012.0,Très bon,WW au Maroc,7,5,10,-2.0,5,5.8
+2024-03-27 11:41:01,Nissan Qashqai,PRIX NON SPÉCIFIÉ,Fès,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Qashqai,124999.0,,2018.0,Très bon,WW au Maroc,7,7,10,4.0,5,6.800000000000001
+2024-03-27 11:41:06,Porsche Cayenne Coupé Hybride Automatique 2021,PRIX NON SPÉCIFIÉ,Tanger,"Voitures d'occasion, à vendre",Ain El Hayani,Oui,3.0,,27499.0,Porsche,2021.0,Très bon,Importée neuve,7,9,9,7.0,5,7.4
+2024-03-27 11:41:12,dokker dacia,108 000 DH,Casablanca,"Voitures d'occasion, à vendre",Ain Sebaa,Oui,5.0,Dokker,124999.0,Dacia,,Très bon,WW au Maroc,7,7,10,,5,
+2024-03-27 11:41:18,Bmw 535i 2011 essence,125 000 DH,Marrakech,"Voitures d'occasion, à vendre",Guéliz,,5.0,Serie 5,224999.0,BMW,2011.0,Très bon,WW au Maroc,7,5,10,-3.0,5,5.7
+2024-03-27 11:41:25,رونو كليو 4,98 000 DH,Tanger,"Voitures d'occasion, à vendre",Mesnana,Non,5.0,Clio,274999.0,Renault,2018.0,Très bon,,7,5,5,4.0,5,5.9
+2024-03-27 11:41:30,Porsche carrera 911 2020,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,,3.0,911 Carrera,17499.0,Porsche,2020.0,Excellent,WW au Maroc,8,9,10,6.0,5,7.9
+2024-03-27 11:41:35,Volkswagen Tiguan 4motion DSG,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",2 Mars,,5.0,Tiguan,114999.0,Volkswagen,2017.0,Excellent,WW au Maroc,8,7,10,3.0,5,7.2
+2024-03-27 11:41:41,Volkswagen Golf 7 GTD,310 000 DH,Tétouan,"Voitures d'occasion, à vendre",Wilaya,,,GOLF 7,92499.0,Volkswagen,2018.0,Très bon,Importée neuve,7,8,9,4.0,5,6.9
+2024-03-27 11:41:45,Mercedes classe G 63 AMG 2019,PRIX NON SPÉCIFIÉ,Casablanca,"Voitures d'occasion, à vendre",Bourgogne,,5.0,Classe G,27499.0,Mercedes-Benz,2019.0,Excellent,Importée neuve,8,9,9,5.0,5,7.7
+2024-03-27 11:41:52,AUDI Q8 DIESEL A RABAT,PRIX NON SPÉCIFIÉ,Rabat,"Voitures d'occasion, à vendre",Agdal,Oui,5.0,Q8,2499.0,Audi,2024.0,Neuf,,5,9,5,10.0,5,6.3
