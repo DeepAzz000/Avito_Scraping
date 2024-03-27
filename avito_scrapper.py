@@ -11,16 +11,23 @@ if __name__ == "__main__":
     'file': {'class': 'logging.FileHandler', 'filename': 'app.log', 'level': 'INFO', 'formatter': 'default'}},
     'root': {'level': 'INFO', 'handlers': ['console', 'file']}})
     
-    if len(sys.argv) < 2:
-        print("Usage: python script.py [main_name]")
+    if len(sys.argv) < 3:
+        print("Usage: python script.py [main_name], [saving_format]")
         sys.exit(1)
     
     chosen_main = sys.argv[1]
-    
+    to_db = "save to db"
+    to_csv = "save to csv"
     if chosen_main == 'scrape':
-        scraping_main()
+        chosen_main = sys.argv[2]
+        if chosen_main == 'to_db':
+            save_as = to_db
+            scraping_main(save_as)
+        elif chosen_main == 'to_csv':
+            save_as = to_csv
+            scraping_main(save_as)
     elif chosen_main == 'stats':
         stats_main()
     else:
-        print("Invalid main name. Please choose 'scraping' or 'stats'.")
+        print("Invalid main name. Please choose 'scrape' or 'stats'. If scrape then choose 'to_db' or 'to_csv' to save the data")
         sys.exit(1)

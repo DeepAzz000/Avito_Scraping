@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
 from datetime import datetime
+import sqlite3
 
 def navigate_to_website(page_number):
     try:
@@ -83,6 +84,7 @@ def get_car_characteristics(driver, links):
                 except Exception:
                     car_dict[datatype] = 'None'
         car_data.append(car_dict)
+        logging.info(f" {car_dict['Name']} elements found")
     logging.info("Cars elements found")        
     return car_data
 
@@ -92,6 +94,7 @@ def get_current_timestamp():
 def write_to_csv(car_data, output_file_path):
     
     try:
+        logging.info(f'Writing to csv file: {output_file_path} started')
         car_data_file = open(output_file_path, mode='a', newline='', encoding='utf-8')
         car_data_writer = csv.DictWriter(car_data_file, fieldnames=car_data[0].keys())
         if car_data_file.tell() == 0:
@@ -99,6 +102,23 @@ def write_to_csv(car_data, output_file_path):
         logging.info(f'Writing to {output_file_path}')
         for car in car_data:
             car_data_writer.writerow(car)
-        logging.info(f'Writing to {output_file_path} is DONE')
+        logging.info(f'Writing to csv file: {output_file_path} is DONE')
     except Exception as e:
         logging.error(f"Exception occurred while writing to CSV: {e}")
+
+
+def write_to_db(car_data):
+    try:
+        logging.info('Writing to SQLite database: "avito_cars.db" started')
+        conn = sqlite3.connect("avito_cars.db")
+        cur = conn.cursor()
+        
+        list_of_tuples = [tuple(d.values()) for d in car_data]
+        values = ', '.join(map(str, list_of_tuples))
+        cur.execute(f"INSERT INTO cars_data ('Scraping time', Name, Prix, Location, Type, Secteur, 'Première main', 'Nombre de portes', Modèle, Kilométrage, Marque, 'Année-Modèle', État, Origine) VALUES {values}")
+        
+        conn.commit()
+        conn.close()
+        logging.info('Writing to SQLite database: "avito_cars.db" is done')
+    except Exception as e:
+        logging.error(f"Exception occurred while writing to SQLite db: {e}")
