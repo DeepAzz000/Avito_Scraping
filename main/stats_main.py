@@ -2,7 +2,7 @@ from utils.scraping_utils import write_to_csv
 from utils.stats_utils import price_statistics, car_count_per_brand_location, plot_of_price_vs_mileage, score
 
 def main():
-    avito_raw_data = 'C:\\Users\\Public\\Avito_Scraping\\output_files\\avito_raw_data.csv'
+    avito_raw_data = 'C:\\Users\\Public\\Avito_Scraping.worktrees\\v2\\testing.csv'
     
     price_stats = price_statistics(avito_raw_data)
     price_stats_file_path = 'C:\\Users\\Public\\Avito_Scraping\\output_files\\price_statistics.csv'
@@ -19,3 +19,4 @@ def main():
 
 if __name__ == '__name__':
     main()
+    
