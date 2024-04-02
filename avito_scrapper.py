@@ -11,7 +11,7 @@ if __name__ == "__main__":
     'file': {'class': 'logging.FileHandler', 'filename': 'app.log', 'level': 'INFO', 'formatter': 'default'}},
     'root': {'level': 'INFO', 'handlers': ['console', 'file']}})
     
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 2:
         print("Usage: python script.py [main_name], [saving_format]")
         sys.exit(1)
     
